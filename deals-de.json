@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T13:54:48+02:00",
+  "updatedAt": "2026-09-06T14:28:17+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "schemaVersion": 2,
@@ -40,28 +40,28 @@
       "brand": "Philips Hue",
       "model": "White & Color Ambiance E27",
       "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8TQFGP.01.LZZZZZZZ.jpg",
-      "ratingApprox": 4.6,
-      "reviewCountApprox": 121,
+      "ratingApprox": 4.7,
+      "reviewCountApprox": 159,
       "variants": [
         {
           "asin": "B0FJ8TQFGP",
           "packSize": 1,
           "label": "1 Stück",
-          "priceEurApprox": 49.99,
+          "priceEurApprox": 50.64,
           "url": "https://www.amazon.de/dp/B0FJ8TQFGP?tag=freiwerk0b-21",
           "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8TQFGP.01.LZZZZZZZ.jpg",
-          "ratingApprox": 4.6,
-          "reviewCountApprox": 121
+          "ratingApprox": 4.7,
+          "reviewCountApprox": 159
         },
         {
-          "asin": "B0FPXD1GTC",
+          "asin": "B0FJ8WXXLN",
           "packSize": 2,
           "label": "2er-Pack",
-          "priceEurApprox": 89.99,
-          "url": "https://www.amazon.de/dp/B0FPXD1GTC?tag=freiwerk0b-21",
-          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FPXD1GTC.01.LZZZZZZZ.jpg",
-          "ratingApprox": 4.6,
-          "reviewCountApprox": 50
+          "priceEurApprox": 82.92,
+          "url": "https://www.amazon.de/dp/B0FJ8WXXLN?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8WXXLN.01.LZZZZZZZ.jpg",
+          "ratingApprox": 4.7,
+          "reviewCountApprox": 159
         }
       ]
     }
