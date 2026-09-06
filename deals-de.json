@@ -1,7 +1,12 @@
 {
-  "updatedAt": "2026-09-06T23:34:29+02:00",
+  "updatedAt": "2026-09-06T23:35:28+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
+  "ebayCampaignId": "5339084095",
+  "marketplaces": [
+    "amazon",
+    "ebay"
+  ],
   "schemaVersion": 2,
   "recommendedSectionTitle": {
     "de": "Empfohlen & kompatibel",
@@ -13,37 +18,55 @@
     "en": "More offers",
     "es": "Más ofertas"
   },
-  "rulesNote": "Per slot: cheapest buyable offer on amazon.de OR ebay.de (price+shipping). Amazon affiliate tag freiwerk0b-21. eBay EPN campid=5339084095 (DE mkrid 707-53477-19255-0). recommended = WiZ+Shelly; moreOffers = Hue (+bridge warning/starter) + Yeelight.",
+  "rulesNote": "Each pack slot lists Amazon and eBay as separate variant buttons when both exist. Labels include shop name until app badges land. Live prices; affiliate amazon freiwerk0b-21 / ebay campid 5339084095.",
   "recommended": [
     {
       "id": "wiz-colors-e27",
       "brand": "Philips WiZ",
       "model": "Colors E27",
-      "imageUrl": "https://m.media-amazon.com/images/I/71fz+yNT4lL._AC_SL1500_.jpg",
-      "ratingApprox": 4.6,
-      "reviewCountApprox": 185,
+      "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
+      "ratingApprox": 4.5,
+      "reviewCountApprox": 985,
       "variants": [
         {
           "asin": "B0BFJLTTL7",
           "packSize": 1,
-          "label": "1 Stück",
+          "label": "Amazon · 1 Stück",
+          "marketplace": "amazon",
           "priceEurApprox": 8.96,
           "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
           "ratingApprox": 4.5,
-          "reviewCountApprox": 985,
-          "marketplace": "amazon"
+          "reviewCountApprox": 985
+        },
+        {
+          "ebayItemId": "336596601811",
+          "packSize": 1,
+          "label": "eBay · 1 Stück",
+          "marketplace": "ebay",
+          "priceEurApprox": 19.32,
+          "url": "https://rover.ebay.com/rover/1/707-53477-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5339084095&mpre=https%3A%2F%2Fwww.ebay.de%2Fitm%2F336596601811",
+          "imageUrl": "https://i.ebayimg.com/images/g/86MAAeSwVRdqEIGF/s-l500.webp"
         },
         {
           "asin": "B0FLX33KD3",
           "packSize": 2,
-          "label": "2er-Pack",
+          "label": "Amazon · 2er-Pack",
+          "marketplace": "amazon",
           "priceEurApprox": 18.99,
           "url": "https://www.amazon.de/dp/B0FLX33KD3?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71fz+yNT4lL._AC_SL1500_.jpg",
           "ratingApprox": 4.6,
-          "reviewCountApprox": 185,
-          "marketplace": "amazon"
+          "reviewCountApprox": 185
+        },
+        {
+          "ebayItemId": "178272318998",
+          "packSize": 2,
+          "label": "eBay · 2er-Pack",
+          "marketplace": "ebay",
+          "priceEurApprox": 21.9,
+          "url": "https://rover.ebay.com/rover/1/707-53477-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5339084095&mpre=https%3A%2F%2Fwww.ebay.de%2Fitm%2F178272318998",
+          "imageUrl": "https://i.ebayimg.com/images/g/lYoAAeSwGgZqRPpy/s-l500.webp"
         }
       ]
     },
@@ -58,13 +81,22 @@
         {
           "asin": "B09TFQV1XC",
           "packSize": 1,
-          "label": "1 Stück",
+          "label": "Amazon · 1 Stück",
+          "marketplace": "amazon",
           "priceEurApprox": 14.16,
           "url": "https://www.amazon.de/dp/B09TFQV1XC?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/41noMXooN5L._AC_SL1200_.jpg",
           "ratingApprox": 4.2,
-          "reviewCountApprox": 435,
-          "marketplace": "amazon"
+          "reviewCountApprox": 435
+        },
+        {
+          "ebayItemId": "146460253639",
+          "packSize": 1,
+          "label": "eBay · 1 Stück",
+          "marketplace": "ebay",
+          "priceEurApprox": 51.57,
+          "url": "https://rover.ebay.com/rover/1/707-53477-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5339084095&mpre=https%3A%2F%2Fwww.ebay.de%2Fitm%2F146460253639",
+          "imageUrl": "https://i.ebayimg.com/images/g/oZwAAeSw7Npn21Vi/s-l500.webp"
         }
       ]
     }
@@ -74,31 +106,49 @@
       "id": "hue-color-e27",
       "brand": "Philips Hue",
       "model": "White & Color Ambiance E27",
-      "imageUrl": "https://m.media-amazon.com/images/I/71NVkClNr4L._AC_SL1500_.jpg",
+      "imageUrl": "https://m.media-amazon.com/images/I/61kAhlbYctL._AC_SL1500_.jpg",
       "ratingApprox": 4.7,
       "reviewCountApprox": 159,
       "variants": [
         {
           "asin": "B0FJ8TQFGP",
           "packSize": 1,
-          "label": "1 Stück",
+          "label": "Amazon · 1 Stück",
+          "marketplace": "amazon",
           "priceEurApprox": 45.49,
           "url": "https://www.amazon.de/dp/B0FJ8TQFGP?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/61kAhlbYctL._AC_SL1500_.jpg",
           "ratingApprox": 4.7,
-          "reviewCountApprox": 159,
-          "marketplace": "amazon"
+          "reviewCountApprox": 159
         },
         {
-          "packSize": 2,
-          "label": "2er-Pack",
+          "ebayItemId": "404731340556",
+          "packSize": 1,
+          "label": "eBay · 1 Stück",
           "marketplace": "ebay",
-          "ebayItemId": "318131982208",
-          "priceEurApprox": 71.0,
-          "url": "https://rover.ebay.com/rover/1/707-53477-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5339084095&mpre=https%3A%2F%2Fwww.ebay.de%2Fitm%2F318131982208",
-          "imageUrl": "https://i.ebayimg.com/images/g/6aUAAeSw69Jp2TP3/s-l500.webp",
+          "priceEurApprox": 50.89,
+          "url": "https://rover.ebay.com/rover/1/707-53477-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5339084095&mpre=https%3A%2F%2Fwww.ebay.de%2Fitm%2F404731340556",
+          "imageUrl": "https://i.ebayimg.com/images/g/Ax0AAOSwAk1lR9dx/s-l500.webp"
+        },
+        {
+          "asin": "B0FJ8WXXLN",
+          "packSize": 2,
+          "label": "Amazon · 2er-Pack",
+          "marketplace": "amazon",
+          "priceEurApprox": 84.99,
+          "url": "https://www.amazon.de/dp/B0FJ8WXXLN?tag=freiwerk0b-21",
+          "imageUrl": "https://m.media-amazon.com/images/I/71NVkClNr4L._AC_SL1500_.jpg",
           "ratingApprox": 4.7,
           "reviewCountApprox": 159
+        },
+        {
+          "ebayItemId": "318131982208",
+          "packSize": 2,
+          "label": "eBay · 2er-Pack",
+          "marketplace": "ebay",
+          "priceEurApprox": 71.0,
+          "url": "https://rover.ebay.com/rover/1/707-53477-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5339084095&mpre=https%3A%2F%2Fwww.ebay.de%2Fitm%2F318131982208",
+          "imageUrl": "https://i.ebayimg.com/images/g/6aUAAeSw69Jp2TP3/s-l500.webp"
         }
       ],
       "compatibilityNote": "Für SmartSunrise und volle Hue-Funktionen brauchst du eine Hue Bridge (separat oder im Starter-Set).",
@@ -122,13 +172,13 @@
         {
           "asin": "B0D53ZHM7Y",
           "packSize": 2,
-          "label": "2 Lampen + Bridge",
+          "label": "Amazon · 2 Lampen + Bridge",
+          "marketplace": "amazon",
           "priceEurApprox": 96.0,
           "url": "https://www.amazon.de/dp/B0D53ZHM7Y?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/61vz-zXGVlL._AC_SL1500_.jpg",
           "ratingApprox": 4.7,
-          "reviewCountApprox": 190,
-          "marketplace": "amazon"
+          "reviewCountApprox": 190
         }
       ]
     },
@@ -143,20 +193,15 @@
         {
           "asin": "B0C5RZPG1N",
           "packSize": 4,
-          "label": "4er-Pack",
+          "label": "Amazon · 4er-Pack",
+          "marketplace": "amazon",
           "priceEurApprox": 35.79,
           "url": "https://www.amazon.de/dp/B0C5RZPG1N?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/41QTNF82BZL._AC_SL1500_.jpg",
           "ratingApprox": 5.0,
-          "reviewCountApprox": 1,
-          "marketplace": "amazon"
+          "reviewCountApprox": 1
         }
       ]
     }
-  ],
-  "ebayCampaignId": "5339084095",
-  "marketplaces": [
-    "amazon",
-    "ebay"
   ]
 }
