@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:24:01+02:00",
+  "updatedAt": "2026-09-06T23:28:56+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "schemaVersion": 2,
@@ -13,7 +13,7 @@
     "en": "More offers",
     "es": "Más ofertas"
   },
-  "rulesNote": "Per slot: cheapest buyable offer on amazon.de OR ebay.de (price+shipping). Amazon affiliate tag freiwerk0b-21. ebayCampaignId empty until Partner Network id is set — then append tracking. recommended = WiZ+Shelly; moreOffers = Hue (+bridge warning/starter) + Yeelight.",
+  "rulesNote": "Per slot: cheapest buyable offer on amazon.de OR ebay.de (price+shipping). Amazon affiliate tag freiwerk0b-21. eBay EPN campid=5339084095 (DE mkrid 707-53477-19255-0). recommended = WiZ+Shelly; moreOffers = Hue (+bridge warning/starter) + Yeelight.",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -154,7 +154,7 @@
       ]
     }
   ],
-  "ebayCampaignId": "",
+  "ebayCampaignId": "5339084095",
   "marketplaces": [
     "amazon",
     "ebay"
