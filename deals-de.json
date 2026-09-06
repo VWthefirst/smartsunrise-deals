@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T22:26:40+02:00",
+  "updatedAt": "2026-09-06T22:55:11+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "schemaVersion": 2,
@@ -13,7 +13,7 @@
     "en": "More offers",
     "es": "Más ofertas"
   },
-  "rulesNote": "recommended = app-compatible (Philips WiZ, Philips Hue, Shelly). moreOffers = Yeelight. No Tapo/Govee/LEDVANCE.",
+  "rulesNote": "recommended = app-compatible (WiZ, Hue+Bridge, Shelly). Hue listings must state Bridge required. moreOffers = Yeelight. No Tapo/Govee/LEDVANCE.",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -48,7 +48,7 @@
     {
       "id": "hue-color-e27",
       "brand": "Philips Hue",
-      "model": "White & Color Ambiance E27",
+      "model": "White & Color Ambiance E27 (Bridge nötig)",
       "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8TQFGP.01.LZZZZZZZ.jpg",
       "ratingApprox": 4.7,
       "reviewCountApprox": 159,
@@ -73,7 +73,9 @@
           "ratingApprox": 4.6,
           "reviewCountApprox": 50
         }
-      ]
+      ],
+      "compatibilityNote": "Für SmartSunrise und volle Hue-Funktionen brauchst du eine Hue Bridge. Die Birne allein (Bluetooth) reicht für die App nicht.",
+      "bridgeRequired": true
     },
     {
       "id": "shelly-duo-rgbw-e27",
