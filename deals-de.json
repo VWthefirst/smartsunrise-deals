@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:42:58+02:00",
+  "updatedAt": "2026-09-07T00:06:39+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -40,13 +40,13 @@
           "reviewCountApprox": 985
         },
         {
-          "ebayItemId": "336596601811",
+          "ebayItemId": "357812686044",
           "packSize": 1,
           "label": "eBay · 1 Stück",
           "marketplace": "ebay",
-          "priceEurApprox": 19.32,
-          "url": "https://www.ebay.de/itm/336596601811?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
-          "imageUrl": "https://i.ebayimg.com/images/g/86MAAeSwVRdqEIGF/s-l500.webp"
+          "priceEurApprox": 12.55,
+          "url": "https://www.ebay.de/itm/357812686044?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
+          "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg"
         },
         {
           "asin": "B0FLX33KD3",
@@ -60,13 +60,13 @@
           "reviewCountApprox": 185
         },
         {
-          "ebayItemId": "178272318998",
-          "packSize": 2,
-          "label": "eBay · 2er-Pack",
+          "ebayItemId": "286911656783",
+          "packSize": 3,
+          "label": "eBay · 3er-Pack",
           "marketplace": "ebay",
-          "priceEurApprox": 21.9,
-          "url": "https://www.ebay.de/itm/178272318998?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
-          "imageUrl": "https://i.ebayimg.com/images/g/lYoAAeSwGgZqRPpy/s-l500.webp"
+          "priceEurApprox": 15.2,
+          "url": "https://www.ebay.de/itm/286911656783?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
+          "imageUrl": "https://m.media-amazon.com/images/I/71fz+yNT4lL._AC_SL1500_.jpg"
         }
       ]
     },
