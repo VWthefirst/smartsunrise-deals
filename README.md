@@ -12,3 +12,8 @@ Sections:
 - `moreOffers`: other established bulbs (not yet controllable in-app)
 
 Updated on a test cadence (~15 min). Prices are snapshots, not live.
+
+## Banners
+
+- [`banners-de.json`](./banners-de.json) — remote in-app banners (update/donate/generic). Empty `banners` = nothing shown. `defaultRemindIntervalMinutes` / per-banner interval control re-show cadence.
+- Raw: `https://raw.githubusercontent.com/VWthefirst/smartsunrise-deals/main/banners-de.json`
