@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:03:21+02:00",
+  "updatedAt": "2026-09-06T23:05:47+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "schemaVersion": 2,
@@ -13,7 +13,7 @@
     "en": "More offers",
     "es": "Más ofertas"
   },
-  "rulesNote": "recommended = easiest for SmartSunrise (WiZ, Shelly). moreOffers = Hue (bridge sold separately + starter bundle with bridge) and Yeelight.",
+  "rulesNote": "recommended = easiest for SmartSunrise (WiZ, Shelly). moreOffers = Hue (bridge sold separately + starter bundle with bridge) and Yeelight. HARD RULE: every ASIN must be buyable on amazon.de (not 'derzeit nicht verfügbar'), with a working product image; replace or drop unavailable listings.",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -127,22 +127,22 @@
       ]
     },
     {
-      "id": "yeelight-color-e27",
+      "id": "yeelight-w4-lite-e27",
       "brand": "Yeelight",
-      "model": "Smart LED Color E27",
-      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0832XR68B.01.LZZZZZZZ.jpg",
-      "ratingApprox": 4.3,
-      "reviewCountApprox": 500,
+      "model": "W4 Lite Color E27 (4er-Pack)",
+      "imageUrl": "https://m.media-amazon.com/images/I/41QTNF82BZL._AC_SL1500_.jpg",
+      "ratingApprox": 5.0,
+      "reviewCountApprox": 1,
       "variants": [
         {
-          "asin": "B0832XR68B",
-          "packSize": 1,
-          "label": "1 Stück",
-          "priceEurApprox": 14.9,
-          "url": "https://www.amazon.de/dp/B0832XR68B?tag=freiwerk0b-21",
-          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0832XR68B.01.LZZZZZZZ.jpg",
-          "ratingApprox": 4.3,
-          "reviewCountApprox": 500
+          "asin": "B0C5RZPG1N",
+          "packSize": 4,
+          "label": "4er-Pack",
+          "priceEurApprox": 11.89,
+          "url": "https://www.amazon.de/dp/B0C5RZPG1N?tag=freiwerk0b-21",
+          "imageUrl": "https://m.media-amazon.com/images/I/41QTNF82BZL._AC_SL1500_.jpg",
+          "ratingApprox": 5.0,
+          "reviewCountApprox": 1
         }
       ]
     }
