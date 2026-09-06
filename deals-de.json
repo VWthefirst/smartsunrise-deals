@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:35:28+02:00",
+  "updatedAt": "2026-09-06T23:42:58+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -18,7 +18,7 @@
     "en": "More offers",
     "es": "Más ofertas"
   },
-  "rulesNote": "Each pack slot lists Amazon and eBay as separate variant buttons when both exist. Labels include shop name until app badges land. Live prices; affiliate amazon freiwerk0b-21 / ebay campid 5339084095.",
+  "rulesNote": "Amazon + eBay as separate variants per pack size. App 1.4 currently displays only up to 2 variants (1er+2er) — needs bau to show all marketplace buttons. eBay URLs are direct ebay.de/itm with EPN query params (campid), not rover.ebay.com. Drop eBay offers with absurd shipping totals.",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -45,7 +45,7 @@
           "label": "eBay · 1 Stück",
           "marketplace": "ebay",
           "priceEurApprox": 19.32,
-          "url": "https://rover.ebay.com/rover/1/707-53477-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5339084095&mpre=https%3A%2F%2Fwww.ebay.de%2Fitm%2F336596601811",
+          "url": "https://www.ebay.de/itm/336596601811?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
           "imageUrl": "https://i.ebayimg.com/images/g/86MAAeSwVRdqEIGF/s-l500.webp"
         },
         {
@@ -65,7 +65,7 @@
           "label": "eBay · 2er-Pack",
           "marketplace": "ebay",
           "priceEurApprox": 21.9,
-          "url": "https://rover.ebay.com/rover/1/707-53477-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5339084095&mpre=https%3A%2F%2Fwww.ebay.de%2Fitm%2F178272318998",
+          "url": "https://www.ebay.de/itm/178272318998?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
           "imageUrl": "https://i.ebayimg.com/images/g/lYoAAeSwGgZqRPpy/s-l500.webp"
         }
       ]
@@ -88,15 +88,6 @@
           "imageUrl": "https://m.media-amazon.com/images/I/41noMXooN5L._AC_SL1200_.jpg",
           "ratingApprox": 4.2,
           "reviewCountApprox": 435
-        },
-        {
-          "ebayItemId": "146460253639",
-          "packSize": 1,
-          "label": "eBay · 1 Stück",
-          "marketplace": "ebay",
-          "priceEurApprox": 51.57,
-          "url": "https://rover.ebay.com/rover/1/707-53477-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5339084095&mpre=https%3A%2F%2Fwww.ebay.de%2Fitm%2F146460253639",
-          "imageUrl": "https://i.ebayimg.com/images/g/oZwAAeSw7Npn21Vi/s-l500.webp"
         }
       ]
     }
@@ -127,7 +118,7 @@
           "label": "eBay · 1 Stück",
           "marketplace": "ebay",
           "priceEurApprox": 50.89,
-          "url": "https://rover.ebay.com/rover/1/707-53477-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5339084095&mpre=https%3A%2F%2Fwww.ebay.de%2Fitm%2F404731340556",
+          "url": "https://www.ebay.de/itm/404731340556?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
           "imageUrl": "https://i.ebayimg.com/images/g/Ax0AAOSwAk1lR9dx/s-l500.webp"
         },
         {
@@ -147,7 +138,7 @@
           "label": "eBay · 2er-Pack",
           "marketplace": "ebay",
           "priceEurApprox": 71.0,
-          "url": "https://rover.ebay.com/rover/1/707-53477-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5339084095&mpre=https%3A%2F%2Fwww.ebay.de%2Fitm%2F318131982208",
+          "url": "https://www.ebay.de/itm/318131982208?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
           "imageUrl": "https://i.ebayimg.com/images/g/6aUAAeSw69Jp2TP3/s-l500.webp"
         }
       ],
