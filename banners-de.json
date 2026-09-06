@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-06T23:30:43+02:00",
+  "updatedAt": "2026-09-06T23:32:13+02:00",
   "schemaVersion": 1,
   "latestVersion": "1.4.0",
   "latestVersionCode": 7,
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.freiwerk.smartsunrise",
   "donateUrl": "",
-  "defaultRemindIntervalMinutes": 15,
+  "defaultRemindIntervalMinutes": 86400,
   "items": [
     {
-      "id": "donate-hint-20260906b",
+      "id": "donate-standing",
       "type": "donate",
       "message": {
         "de": "SmartSunrise bleibt werbefrei und lokal. Wenn dir die App hilft: schau unter Einstellungen → Spenden vorbei.",
@@ -21,7 +21,7 @@
         "es": "Ir a Donar"
       },
       "url": "",
-      "intervalMinutes": 15
+      "intervalMinutes": 86400
     }
   ],
   "banners": []
