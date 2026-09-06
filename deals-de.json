@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-06T11:15:00+02:00",
+  "updatedAt": "2026-09-06T11:38:34+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "rulesNote": "Organic listings only; established brands; prefer high review counts; single + multipack; among established pick good price/performance.",
   "recommendedIds": [
     "tapo-l530e-1",
-    "tapo-l530e-2",
-    "govee-e27-1"
+    "wiz-colors-1",
+    "tapo-l530e-2"
   ],
   "items": [
     {
@@ -16,11 +16,11 @@
       "asin": "B08GDC99PX",
       "packSize": 1,
       "url": "https://www.amazon.de/dp/B08GDC99PX?tag=freiwerk0b-21",
-      "priceEurApprox": 8.0,
-      "ratingApprox": 4.4,
-      "reviewCountApprox": 5000,
+      "priceEurApprox": 8.77,
+      "ratingApprox": 4.3,
+      "reviewCountApprox": 28400,
       "recommended": true,
-      "notes": "Sehr gängiges WLAN-Farbmodell, kein Hub."
+      "notes": "Sehr gängiges WLAN-Farbmodell, kein Hub; hoher Review-Count."
     },
     {
       "id": "tapo-l530e-2",
@@ -29,24 +29,63 @@
       "asin": "B08QRQQ53T",
       "packSize": 2,
       "url": "https://www.amazon.de/dp/B08QRQQ53T?tag=freiwerk0b-21",
-      "priceEurApprox": 17.0,
+      "priceEurApprox": 19.42,
       "ratingApprox": 4.4,
-      "reviewCountApprox": 15000,
+      "reviewCountApprox": 11600,
       "recommended": true,
-      "notes": "Gleiches Modell als Mehrpack – oft besseres Stückpreis."
+      "notes": "Gleiches Modell als Mehrpack – Stückpreis oft besser als 2× Einzel."
+    },
+    {
+      "id": "wiz-colors-1",
+      "brand": "WiZ",
+      "title": "WiZ Colors E27 Tunable White & Color – 1 Stück",
+      "asin": "B08HHBSB75",
+      "packSize": 1,
+      "url": "https://www.amazon.de/dp/B08HHBSB75?tag=freiwerk0b-21",
+      "priceEurApprox": 9.95,
+      "ratingApprox": 4.4,
+      "reviewCountApprox": 970,
+      "recommended": true,
+      "notes": "Lokal steuerbar, passt gut zur App; ASIN festgenagelt."
+    },
+    {
+      "id": "wiz-colors-2",
+      "brand": "WiZ",
+      "title": "WiZ Colors E27 Tunable White & Color – 2er-Pack",
+      "asin": "B08HLVV86K",
+      "packSize": 2,
+      "url": "https://www.amazon.de/dp/B08HLVV86K?tag=freiwerk0b-21",
+      "priceEurApprox": 17.4,
+      "ratingApprox": 4.4,
+      "reviewCountApprox": 970,
+      "recommended": false,
+      "notes": "Mehrpack zum gleichen Modell; Preis approximiert aus Listings."
     },
     {
       "id": "govee-e27-1",
       "brand": "Govee",
-      "title": "Govee Smart Glühbirne E27 RGBWW – 1 Stück",
+      "title": "Govee Smart Glühbirne E27 RGBWW 1000LM – 1 Stück",
       "asin": "B0CGWK1DLF",
       "packSize": 1,
       "url": "https://www.amazon.de/dp/B0CGWK1DLF?tag=freiwerk0b-21",
       "priceEurApprox": 14.0,
       "ratingApprox": 4.6,
       "reviewCountApprox": 1100,
-      "recommended": true,
+      "recommended": false,
       "notes": "Etabliert, viele Bewertungen; eher Cloud – für Deals/Tests."
+    },
+    {
+      "id": "govee-e27-2",
+      "brand": "Govee",
+      "title": "Govee Smart Glühbirne E27 RGBWW 800LM – 2er-Pack",
+      "asin": "B0C3VLCFJR",
+      "packSize": 2,
+      "url": "https://www.amazon.de/dp/B0C3VLCFJR?tag=freiwerk0b-21",
+      "priceEurApprox": 20.0,
+      "ratingApprox": 4.6,
+      "reviewCountApprox": 5800,
+      "recommended": false,
+      "notes": "Mehrpack mit starkem Review-Count; Matter-fähig."
     },
     {
       "id": "ledvance-rgbw-1",
@@ -55,24 +94,11 @@
       "asin": "B08KYBFBSZ",
       "packSize": 1,
       "url": "https://www.amazon.de/dp/B08KYBFBSZ?tag=freiwerk0b-21",
-      "priceEurApprox": 10.0,
-      "ratingApprox": 4.2,
+      "priceEurApprox": 9.3,
+      "ratingApprox": 4.3,
       "reviewCountApprox": 1000,
       "recommended": false,
-      "notes": "Günstiger etablierter Einstieg."
-    },
-    {
-      "id": "wiz-colors-1",
-      "brand": "WiZ",
-      "title": "WiZ Colors E27 – 1 Stück (suche etabliertes Listing)",
-      "asin": "",
-      "packSize": 1,
-      "url": "https://www.amazon.de/s?k=WiZ+Colors+E27+Lampe&rh=p_72%3A4-&tag=freiwerk0b-21",
-      "priceEurApprox": null,
-      "ratingApprox": null,
-      "reviewCountApprox": null,
-      "recommended": false,
-      "notes": "Suche gefiltert; ASIN beim nächsten Refresh festnageln. WiZ lokal gut für die App."
+      "notes": "Günstiger etablierter Einstieg; Buybox schwankt."
     }
   ]
 }
