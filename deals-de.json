@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:28:56+02:00",
+  "updatedAt": "2026-09-06T23:34:29+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "schemaVersion": 2,
@@ -90,15 +90,15 @@
           "marketplace": "amazon"
         },
         {
-          "asin": "B0FJ8WXXLN",
           "packSize": 2,
           "label": "2er-Pack",
-          "priceEurApprox": 84.99,
-          "url": "https://www.amazon.de/dp/B0FJ8WXXLN?tag=freiwerk0b-21",
-          "imageUrl": "https://m.media-amazon.com/images/I/71NVkClNr4L._AC_SL1500_.jpg",
+          "marketplace": "ebay",
+          "ebayItemId": "318131982208",
+          "priceEurApprox": 71.0,
+          "url": "https://rover.ebay.com/rover/1/707-53477-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5339084095&mpre=https%3A%2F%2Fwww.ebay.de%2Fitm%2F318131982208",
+          "imageUrl": "https://i.ebayimg.com/images/g/6aUAAeSw69Jp2TP3/s-l500.webp",
           "ratingApprox": 4.7,
-          "reviewCountApprox": 159,
-          "marketplace": "amazon"
+          "reviewCountApprox": 159
         }
       ],
       "compatibilityNote": "Für SmartSunrise und volle Hue-Funktionen brauchst du eine Hue Bridge (separat oder im Starter-Set).",
