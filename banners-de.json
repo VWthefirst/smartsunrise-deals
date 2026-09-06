@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:19:45+02:00",
+  "updatedAt": "2026-09-06T23:30:43+02:00",
   "schemaVersion": 1,
   "latestVersion": "1.4.0",
   "latestVersionCode": 7,
@@ -8,17 +8,17 @@
   "defaultRemindIntervalMinutes": 15,
   "items": [
     {
-      "id": "donate-hint-20260906a",
+      "id": "donate-hint-20260906b",
       "type": "donate",
       "message": {
-        "de": "SmartSunrise bleibt werbefrei und lokal. Wenn dir die App hilft: eine kleine Spende hält die Lichter am Leuchten.",
-        "en": "SmartSunrise stays ad-free and local. If the app helps you, a small donation keeps the lights glowing.",
-        "es": "SmartSunrise sigue sin anuncios y local. Si la app te ayuda, una pequeña donación mantiene las luces encendidas."
+        "de": "SmartSunrise bleibt werbefrei und lokal. Wenn dir die App hilft: schau unter Einstellungen → Spenden vorbei.",
+        "en": "SmartSunrise stays ad-free and local. If it helps you, check Settings → Donate.",
+        "es": "SmartSunrise sigue sin anuncios y local. Si te ayuda, mira en Ajustes → Donar."
       },
       "cta": {
         "de": "Zu Spenden",
-        "en": "Donate",
-        "es": "Donar"
+        "en": "Open Donate",
+        "es": "Ir a Donar"
       },
       "url": "",
       "intervalMinutes": 15
