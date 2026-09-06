@@ -1,0 +1,78 @@
+{
+  "updatedAt": "2026-09-06T11:15:00+02:00",
+  "marketplace": "de",
+  "partnerTag": "freiwerk0b-21",
+  "rulesNote": "Organic listings only; established brands; prefer high review counts; single + multipack; among established pick good price/performance.",
+  "recommendedIds": [
+    "tapo-l530e-1",
+    "tapo-l530e-2",
+    "govee-e27-1"
+  ],
+  "items": [
+    {
+      "id": "tapo-l530e-1",
+      "brand": "TP-Link Tapo",
+      "title": "Tapo L530E E27 RGB – 1 Stück",
+      "asin": "B08GDC99PX",
+      "packSize": 1,
+      "url": "https://www.amazon.de/dp/B08GDC99PX?tag=freiwerk0b-21",
+      "priceEurApprox": 8.0,
+      "ratingApprox": 4.4,
+      "reviewCountApprox": 5000,
+      "recommended": true,
+      "notes": "Sehr gängiges WLAN-Farbmodell, kein Hub."
+    },
+    {
+      "id": "tapo-l530e-2",
+      "brand": "TP-Link Tapo",
+      "title": "Tapo L530E E27 RGB – 2er-Pack",
+      "asin": "B08QRQQ53T",
+      "packSize": 2,
+      "url": "https://www.amazon.de/dp/B08QRQQ53T?tag=freiwerk0b-21",
+      "priceEurApprox": 17.0,
+      "ratingApprox": 4.4,
+      "reviewCountApprox": 15000,
+      "recommended": true,
+      "notes": "Gleiches Modell als Mehrpack – oft besseres Stückpreis."
+    },
+    {
+      "id": "govee-e27-1",
+      "brand": "Govee",
+      "title": "Govee Smart Glühbirne E27 RGBWW – 1 Stück",
+      "asin": "B0CGWK1DLF",
+      "packSize": 1,
+      "url": "https://www.amazon.de/dp/B0CGWK1DLF?tag=freiwerk0b-21",
+      "priceEurApprox": 14.0,
+      "ratingApprox": 4.6,
+      "reviewCountApprox": 1100,
+      "recommended": true,
+      "notes": "Etabliert, viele Bewertungen; eher Cloud – für Deals/Tests."
+    },
+    {
+      "id": "ledvance-rgbw-1",
+      "brand": "LEDVANCE",
+      "title": "LEDVANCE SMART+ WiFi Classic RGBW E27 – 1 Stück",
+      "asin": "B08KYBFBSZ",
+      "packSize": 1,
+      "url": "https://www.amazon.de/dp/B08KYBFBSZ?tag=freiwerk0b-21",
+      "priceEurApprox": 10.0,
+      "ratingApprox": 4.2,
+      "reviewCountApprox": 1000,
+      "recommended": false,
+      "notes": "Günstiger etablierter Einstieg."
+    },
+    {
+      "id": "wiz-colors-1",
+      "brand": "WiZ",
+      "title": "WiZ Colors E27 – 1 Stück (suche etabliertes Listing)",
+      "asin": "",
+      "packSize": 1,
+      "url": "https://www.amazon.de/s?k=WiZ+Colors+E27+Lampe&rh=p_72%3A4-&tag=freiwerk0b-21",
+      "priceEurApprox": null,
+      "ratingApprox": null,
+      "reviewCountApprox": null,
+      "recommended": false,
+      "notes": "Suche gefiltert; ASIN beim nächsten Refresh festnageln. WiZ lokal gut für die App."
+    }
+  ]
+}
