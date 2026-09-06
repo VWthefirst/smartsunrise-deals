@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-09-06T22:41:34+02:00",
+  "updatedAt": "2026-09-06T23:12:15+02:00",
   "schemaVersion": 1,
   "latestVersion": "1.4.0",
   "latestVersionCode": 7,
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.freiwerk.smartsunrise",
   "donateUrl": "",
   "defaultRemindIntervalMinutes": 15,
+  "items": [
+    {
+      "id": "surprise-night-owl-20260906",
+      "type": "generic",
+      "message": {
+        "de": "23:11 Uhr und du testest noch Banner? Respekt. Deine Lampen und SmartSunrise nicken anerkennend — und flüstern: irgendwann ist auch ein Sonnenaufgang drin.",
+        "en": "Still testing banners this late? Respect. Your lights and SmartSunrise tip their hats — and whisper that a sunrise is still on the menu someday.",
+        "es": "¿Todavía probando banners a estas horas? Respeto. Tus luces y SmartSunrise asienten — y susurran que un amanecer también cuenta."
+      },
+      "cta": {
+        "de": "Alles klar",
+        "en": "Got it",
+        "es": "Entendido"
+      },
+      "url": "",
+      "intervalMinutes": 15
+    }
+  ],
   "banners": []
 }
