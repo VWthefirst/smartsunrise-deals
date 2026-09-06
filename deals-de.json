@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T22:55:11+02:00",
+  "updatedAt": "2026-09-06T22:59:52+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "schemaVersion": 2,
@@ -13,7 +13,7 @@
     "en": "More offers",
     "es": "Más ofertas"
   },
-  "rulesNote": "recommended = app-compatible (WiZ, Hue+Bridge, Shelly). Hue listings must state Bridge required. moreOffers = Yeelight. No Tapo/Govee/LEDVANCE.",
+  "rulesNote": "recommended = easiest for SmartSunrise (WiZ, Shelly). moreOffers = Hue (bridge sold separately + starter bundle with bridge) and Yeelight.",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -46,9 +46,31 @@
       ]
     },
     {
+      "id": "shelly-duo-rgbw-e27",
+      "brand": "Shelly",
+      "model": "Duo RGBW E27",
+      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B08XYFYF2D.01.LZZZZZZZ.jpg",
+      "ratingApprox": 4.1,
+      "reviewCountApprox": 200,
+      "variants": [
+        {
+          "asin": "B08XYFYF2D",
+          "packSize": 1,
+          "label": "1 Stück",
+          "priceEurApprox": 24.9,
+          "url": "https://www.amazon.de/dp/B08XYFYF2D?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B08XYFYF2D.01.LZZZZZZZ.jpg",
+          "ratingApprox": 4.1,
+          "reviewCountApprox": 200
+        }
+      ]
+    }
+  ],
+  "moreOffers": [
+    {
       "id": "hue-color-e27",
       "brand": "Philips Hue",
-      "model": "White & Color Ambiance E27 (Bridge nötig)",
+      "model": "White & Color Ambiance E27 — Bridge muss gesondert erworben werden",
       "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8TQFGP.01.LZZZZZZZ.jpg",
       "ratingApprox": 4.7,
       "reviewCountApprox": 159,
@@ -74,31 +96,31 @@
           "reviewCountApprox": 50
         }
       ],
-      "compatibilityNote": "Für SmartSunrise und volle Hue-Funktionen brauchst du eine Hue Bridge. Die Birne allein (Bluetooth) reicht für die App nicht.",
+      "compatibilityNote": "Für SmartSunrise und volle Hue-Funktionen: Hue Bridge separat kaufen (oder Starter-Set mit Bridge wählen).",
       "bridgeRequired": true
     },
     {
-      "id": "shelly-duo-rgbw-e27",
-      "brand": "Shelly",
-      "model": "Duo RGBW E27",
-      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B08XYFYF2D.01.LZZZZZZZ.jpg",
-      "ratingApprox": 4.1,
-      "reviewCountApprox": 200,
+      "id": "hue-starter-2-bridge",
+      "brand": "Philips Hue",
+      "model": "Starter-Set: 2× Color E27 + Bridge (Bridge enthalten)",
+      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0D53ZHM7Y.01.LZZZZZZZ.jpg",
+      "ratingApprox": 4.7,
+      "reviewCountApprox": 180,
+      "bridgeRequired": false,
+      "bridgeIncluded": true,
       "variants": [
         {
-          "asin": "B08XYFYF2D",
-          "packSize": 1,
-          "label": "1 Stück",
-          "priceEurApprox": 24.9,
-          "url": "https://www.amazon.de/dp/B08XYFYF2D?tag=freiwerk0b-21",
-          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B08XYFYF2D.01.LZZZZZZZ.jpg",
-          "ratingApprox": 4.1,
-          "reviewCountApprox": 200
+          "asin": "B0D53ZHM7Y",
+          "packSize": 2,
+          "label": "2 Lampen + Bridge",
+          "priceEurApprox": 86.0,
+          "url": "https://www.amazon.de/dp/B0D53ZHM7Y?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0D53ZHM7Y.01.LZZZZZZZ.jpg",
+          "ratingApprox": 4.7,
+          "reviewCountApprox": 180
         }
       ]
-    }
-  ],
-  "moreOffers": [
+    },
     {
       "id": "yeelight-color-e27",
       "brand": "Yeelight",
