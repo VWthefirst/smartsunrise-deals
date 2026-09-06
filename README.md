@@ -5,7 +5,10 @@ Public JSON for the SmartSunrise Android app **Deals** tab.
 - File: [`deals-de.json`](./deals-de.json)
 - Raw URL: `https://raw.githubusercontent.com/VWthefirst/smartsunrise-deals/main/deals-de.json`
 - Amazon Partner tag: `freiwerk0b-21` (amazon.de only for now)
+- `schemaVersion`: **2** — product tiles with `imageUrl`, `brand`, `model`, `ratingApprox`, and `variants` (1 Stück + Bundle buttons).
 
-Updated about once per weekday morning. Prices are snapshots, not live.
+Sections:
+- `recommended`: only brands the app can control today (**Philips WiZ**, **Philips Hue**)
+- `moreOffers`: other established bulbs (not yet controllable in-app)
 
-Selection rules: no sponsored ads; established brands; prefer high review counts; always offer a single and a multipack where sensible; among established options prefer strong price/performance.
+Updated on a test cadence (~15 min). Prices are snapshots, not live.

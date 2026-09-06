@@ -1,104 +1,151 @@
 {
-  "updatedAt": "2026-09-06T12:24:30+02:00",
+  "updatedAt": "2026-09-06T13:54:48+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
-  "rulesNote": "Organic listings only; established brands; prefer high review counts; single + multipack; among established pick good price/performance.",
-  "recommendedIds": [
-    "tapo-l530e-1",
-    "wiz-colors-1",
-    "tapo-l530e-2"
-  ],
-  "items": [
+  "schemaVersion": 2,
+  "rulesNote": "Empfohlen = only brands the app controls today (Philips WiZ, Philips Hue). Other established bulbs under moreOffers. Organic; structured tile fields (image, brand, model, rating, 1er + bundle buttons with prices). No freeform blurb under tiles.",
+  "recommended": [
     {
-      "id": "tapo-l530e-1",
-      "brand": "TP-Link Tapo",
-      "title": "Tapo L530E E27 RGB – 1 Stück",
-      "asin": "B08GDC99PX",
-      "packSize": 1,
-      "url": "https://www.amazon.de/dp/B08GDC99PX?tag=freiwerk0b-21",
-      "priceEurApprox": 8.77,
-      "ratingApprox": 4.3,
-      "reviewCountApprox": 28442,
-      "recommended": true,
-      "notes": "Sehr gängiges WLAN-Farbmodell, kein Hub; Buybox wieder höher nach kurzzeitigem Drop."
-    },
-    {
-      "id": "tapo-l530e-2",
-      "brand": "TP-Link Tapo",
-      "title": "Tapo L530E E27 RGB – 2er-Pack",
-      "asin": "B08QRQQ53T",
-      "packSize": 2,
-      "url": "https://www.amazon.de/dp/B08QRQQ53T?tag=freiwerk0b-21",
-      "priceEurApprox": 19.42,
-      "ratingApprox": 4.4,
-      "reviewCountApprox": 11553,
-      "recommended": true,
-      "notes": "Gleiches Modell als Mehrpack; Stückpreis aktuell nahe dem Einzelpreis."
-    },
-    {
-      "id": "wiz-colors-1",
-      "brand": "WiZ",
-      "title": "WiZ Colors E27 Tunable White & Color – 1 Stück",
-      "asin": "B0BFJLTTL7",
-      "packSize": 1,
-      "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
-      "priceEurApprox": 8.75,
+      "id": "wiz-colors-e27",
+      "brand": "Philips WiZ",
+      "model": "Colors E27",
+      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0BFJLTTL7.01.LZZZZZZZ.jpg",
       "ratingApprox": 4.5,
       "reviewCountApprox": 985,
-      "recommended": true,
-      "notes": "Ersatz für ausverkauftes B08HHBSB75; gleiches 806-lm Colors-Modell, lokal steuerbar."
+      "variants": [
+        {
+          "asin": "B0BFJLTTL7",
+          "packSize": 1,
+          "label": "1 Stück",
+          "priceEurApprox": 8.75,
+          "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0BFJLTTL7.01.LZZZZZZZ.jpg",
+          "ratingApprox": 4.5,
+          "reviewCountApprox": 985
+        },
+        {
+          "asin": "B0FLX33KD3",
+          "packSize": 2,
+          "label": "2er-Pack",
+          "priceEurApprox": 18.54,
+          "url": "https://www.amazon.de/dp/B0FLX33KD3?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FLX33KD3.01.LZZZZZZZ.jpg",
+          "ratingApprox": 4.6,
+          "reviewCountApprox": 185
+        }
+      ]
     },
     {
-      "id": "wiz-colors-2",
-      "brand": "WiZ",
-      "title": "WiZ Colors E27 Tunable White & Color – 2er-Pack",
-      "asin": "B0FLX33KD3",
-      "packSize": 2,
-      "url": "https://www.amazon.de/dp/B0FLX33KD3?tag=freiwerk0b-21",
-      "priceEurApprox": 18.54,
+      "id": "hue-color-e27",
+      "brand": "Philips Hue",
+      "model": "White & Color Ambiance E27",
+      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8TQFGP.01.LZZZZZZZ.jpg",
       "ratingApprox": 4.6,
-      "reviewCountApprox": 185,
-      "recommended": false,
-      "notes": "Ersatz für ausverkauftes B08HLVV86K; aktueller organischer 2er Colors A60."
+      "reviewCountApprox": 121,
+      "variants": [
+        {
+          "asin": "B0FJ8TQFGP",
+          "packSize": 1,
+          "label": "1 Stück",
+          "priceEurApprox": 49.99,
+          "url": "https://www.amazon.de/dp/B0FJ8TQFGP?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8TQFGP.01.LZZZZZZZ.jpg",
+          "ratingApprox": 4.6,
+          "reviewCountApprox": 121
+        },
+        {
+          "asin": "B0FPXD1GTC",
+          "packSize": 2,
+          "label": "2er-Pack",
+          "priceEurApprox": 89.99,
+          "url": "https://www.amazon.de/dp/B0FPXD1GTC?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FPXD1GTC.01.LZZZZZZZ.jpg",
+          "ratingApprox": 4.6,
+          "reviewCountApprox": 50
+        }
+      ]
+    }
+  ],
+  "moreOffers": [
+    {
+      "id": "tapo-l530e",
+      "brand": "TP-Link Tapo",
+      "model": "L530E E27 RGB",
+      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B08GDC99PX.01.LZZZZZZZ.jpg",
+      "ratingApprox": 4.3,
+      "reviewCountApprox": 28442,
+      "variants": [
+        {
+          "asin": "B08GDC99PX",
+          "packSize": 1,
+          "label": "1 Stück",
+          "priceEurApprox": 8.77,
+          "url": "https://www.amazon.de/dp/B08GDC99PX?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B08GDC99PX.01.LZZZZZZZ.jpg",
+          "ratingApprox": 4.3,
+          "reviewCountApprox": 28442
+        },
+        {
+          "asin": "B08QRQQ53T",
+          "packSize": 2,
+          "label": "2er-Pack",
+          "priceEurApprox": 19.42,
+          "url": "https://www.amazon.de/dp/B08QRQQ53T?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B08QRQQ53T.01.LZZZZZZZ.jpg",
+          "ratingApprox": 4.4,
+          "reviewCountApprox": 11553
+        },
+        {
+          "asin": "B09MM39P84",
+          "packSize": 4,
+          "label": "4er-Pack",
+          "priceEurApprox": 22.31,
+          "url": "https://www.amazon.de/dp/B09MM39P84?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B09MM39P84.01.LZZZZZZZ.jpg",
+          "ratingApprox": 4.5,
+          "reviewCountApprox": 2322
+        }
+      ]
     },
     {
-      "id": "tapo-l530e-4",
+      "id": "tapo-l535e",
       "brand": "TP-Link Tapo",
-      "title": "Tapo L530E E27 RGB – 4er-Pack",
-      "asin": "B09MM39P84",
-      "packSize": 4,
-      "url": "https://www.amazon.de/dp/B09MM39P84?tag=freiwerk0b-21",
-      "priceEurApprox": 22.31,
-      "ratingApprox": 4.5,
-      "reviewCountApprox": 2322,
-      "recommended": false,
-      "notes": "Stärkster Mehrpack (~5,58 €/Stück); Govee-Klassiker (B0CGWK1DLF) weiter nicht lieferbar."
-    },
-    {
-      "id": "tapo-l535e-1",
-      "brand": "TP-Link Tapo",
-      "title": "Tapo L535E E27 RGB Matter – 1 Stück",
-      "asin": "B0CKXSYYH2",
-      "packSize": 1,
-      "url": "https://www.amazon.de/dp/B0CKXSYYH2?tag=freiwerk0b-21",
-      "priceEurApprox": 10.19,
+      "model": "L535E E27 RGB Matter",
+      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0CKXSYYH2.01.LZZZZZZZ.jpg",
       "ratingApprox": 4.5,
       "reviewCountApprox": 2200,
-      "recommended": false,
-      "notes": "Matter-fähiges Tapo-Farbmodell; Govee-Klassiker weiterhin nicht verfügbar."
+      "variants": [
+        {
+          "asin": "B0CKXSYYH2",
+          "packSize": 1,
+          "label": "1 Stück",
+          "priceEurApprox": 10.19,
+          "url": "https://www.amazon.de/dp/B0CKXSYYH2?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0CKXSYYH2.01.LZZZZZZZ.jpg",
+          "ratingApprox": 4.5,
+          "reviewCountApprox": 2200
+        }
+      ]
     },
     {
-      "id": "ledvance-rgb-1",
+      "id": "ledvance-rgb",
       "brand": "LEDVANCE",
-      "title": "LEDVANCE SMART+ WiFi E27 RGB Globe – 1 Stück",
-      "asin": "B09F3CJG6D",
-      "packSize": 1,
-      "url": "https://www.amazon.de/dp/B09F3CJG6D?tag=freiwerk0b-21",
-      "priceEurApprox": 9.26,
+      "model": "SMART+ WiFi E27 RGB Globe",
+      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B09F3CJG6D.01.LZZZZZZZ.jpg",
       "ratingApprox": 4.3,
       "reviewCountApprox": 339,
-      "recommended": false,
-      "notes": "Ersatz für ausverkauftes B08KYBFBSZ; nur noch wenige auf Lager."
+      "variants": [
+        {
+          "asin": "B09F3CJG6D",
+          "packSize": 1,
+          "label": "1 Stück",
+          "priceEurApprox": 9.26,
+          "url": "https://www.amazon.de/dp/B09F3CJG6D?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B09F3CJG6D.01.LZZZZZZZ.jpg",
+          "ratingApprox": 4.3,
+          "reviewCountApprox": 339
+        }
+      ]
     }
   ]
 }
