@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T12:21:34+02:00",
+  "updatedAt": "2026-09-06T12:24:30+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "rulesNote": "Organic listings only; established brands; prefer high review counts; single + multipack; among established pick good price/performance.",
@@ -16,11 +16,11 @@
       "asin": "B08GDC99PX",
       "packSize": 1,
       "url": "https://www.amazon.de/dp/B08GDC99PX?tag=freiwerk0b-21",
-      "priceEurApprox": 7.55,
+      "priceEurApprox": 8.77,
       "ratingApprox": 4.3,
       "reviewCountApprox": 28442,
       "recommended": true,
-      "notes": "Sehr gängiges WLAN-Farbmodell, kein Hub; Preis deutlich unter Vortag."
+      "notes": "Sehr gängiges WLAN-Farbmodell, kein Hub; Buybox wieder höher nach kurzzeitigem Drop."
     },
     {
       "id": "tapo-l530e-2",
@@ -29,11 +29,11 @@
       "asin": "B08QRQQ53T",
       "packSize": 2,
       "url": "https://www.amazon.de/dp/B08QRQQ53T?tag=freiwerk0b-21",
-      "priceEurApprox": 16.72,
+      "priceEurApprox": 19.42,
       "ratingApprox": 4.4,
       "reviewCountApprox": 11553,
       "recommended": true,
-      "notes": "Gleiches Modell als Mehrpack – Stückpreis oft besser als 2× Einzel."
+      "notes": "Gleiches Modell als Mehrpack; Stückpreis aktuell nahe dem Einzelpreis."
     },
     {
       "id": "wiz-colors-1",
@@ -42,7 +42,7 @@
       "asin": "B0BFJLTTL7",
       "packSize": 1,
       "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
-      "priceEurApprox": 7.53,
+      "priceEurApprox": 8.75,
       "ratingApprox": 4.5,
       "reviewCountApprox": 985,
       "recommended": true,
@@ -55,7 +55,7 @@
       "asin": "B0FLX33KD3",
       "packSize": 2,
       "url": "https://www.amazon.de/dp/B0FLX33KD3?tag=freiwerk0b-21",
-      "priceEurApprox": 15.96,
+      "priceEurApprox": 18.54,
       "ratingApprox": 4.6,
       "reviewCountApprox": 185,
       "recommended": false,
@@ -68,11 +68,11 @@
       "asin": "B09MM39P84",
       "packSize": 4,
       "url": "https://www.amazon.de/dp/B09MM39P84?tag=freiwerk0b-21",
-      "priceEurApprox": 19.21,
+      "priceEurApprox": 22.31,
       "ratingApprox": 4.5,
       "reviewCountApprox": 2322,
       "recommended": false,
-      "notes": "Starker Mehrpack-Preis (~4,80 €/Stück); ersetzt vorübergehend Govee-Mehrpack (Buybox oft leer)."
+      "notes": "Stärkster Mehrpack (~5,58 €/Stück); Govee-Klassiker (B0CGWK1DLF) weiter nicht lieferbar."
     },
     {
       "id": "tapo-l535e-1",
@@ -81,11 +81,11 @@
       "asin": "B0CKXSYYH2",
       "packSize": 1,
       "url": "https://www.amazon.de/dp/B0CKXSYYH2?tag=freiwerk0b-21",
-      "priceEurApprox": 8.77,
+      "priceEurApprox": 10.19,
       "ratingApprox": 4.5,
       "reviewCountApprox": 2200,
       "recommended": false,
-      "notes": "Matter-fähiges Tapo-Farbmodell; Govee-Klassiker (B0CGWK1DLF) derzeit nicht verfügbar."
+      "notes": "Matter-fähiges Tapo-Farbmodell; Govee-Klassiker weiterhin nicht verfügbar."
     },
     {
       "id": "ledvance-rgb-1",
@@ -94,11 +94,11 @@
       "asin": "B09F3CJG6D",
       "packSize": 1,
       "url": "https://www.amazon.de/dp/B09F3CJG6D?tag=freiwerk0b-21",
-      "priceEurApprox": 7.97,
+      "priceEurApprox": 9.26,
       "ratingApprox": 4.3,
       "reviewCountApprox": 339,
       "recommended": false,
-      "notes": "Ersatz für ausverkauftes B08KYBFBSZ; günstiges etabliertes RGB-WiFi ohne Hub."
+      "notes": "Ersatz für ausverkauftes B08KYBFBSZ; nur noch wenige auf Lager."
     }
   ]
 }
