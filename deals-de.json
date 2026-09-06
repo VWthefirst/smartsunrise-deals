@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:14:25+02:00",
+  "updatedAt": "2026-09-06T23:24:01+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "schemaVersion": 2,
@@ -13,7 +13,7 @@
     "en": "More offers",
     "es": "Más ofertas"
   },
-  "rulesNote": "recommended = easiest for SmartSunrise (WiZ, Shelly). moreOffers = Hue (bridge sold separately + starter bundle with bridge) and Yeelight. HARD RULES: every ASIN must be buyable on amazon.de with working image; priceEurApprox must match live buy-box scrape (never invent/guess).",
+  "rulesNote": "Per slot: cheapest buyable offer on amazon.de OR ebay.de (price+shipping). Amazon affiliate tag freiwerk0b-21. ebayCampaignId empty until Partner Network id is set — then append tracking. recommended = WiZ+Shelly; moreOffers = Hue (+bridge warning/starter) + Yeelight.",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -31,7 +31,8 @@
           "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
           "ratingApprox": 4.5,
-          "reviewCountApprox": 985
+          "reviewCountApprox": 985,
+          "marketplace": "amazon"
         },
         {
           "asin": "B0FLX33KD3",
@@ -41,7 +42,8 @@
           "url": "https://www.amazon.de/dp/B0FLX33KD3?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71fz+yNT4lL._AC_SL1500_.jpg",
           "ratingApprox": 4.6,
-          "reviewCountApprox": 185
+          "reviewCountApprox": 185,
+          "marketplace": "amazon"
         }
       ]
     },
@@ -61,7 +63,8 @@
           "url": "https://www.amazon.de/dp/B09TFQV1XC?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/41noMXooN5L._AC_SL1200_.jpg",
           "ratingApprox": 4.2,
-          "reviewCountApprox": 435
+          "reviewCountApprox": 435,
+          "marketplace": "amazon"
         }
       ]
     }
@@ -83,7 +86,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8TQFGP?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/61kAhlbYctL._AC_SL1500_.jpg",
           "ratingApprox": 4.7,
-          "reviewCountApprox": 159
+          "reviewCountApprox": 159,
+          "marketplace": "amazon"
         },
         {
           "asin": "B0FJ8WXXLN",
@@ -93,7 +97,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8WXXLN?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71NVkClNr4L._AC_SL1500_.jpg",
           "ratingApprox": 4.7,
-          "reviewCountApprox": 159
+          "reviewCountApprox": 159,
+          "marketplace": "amazon"
         }
       ],
       "compatibilityNote": "Für SmartSunrise und volle Hue-Funktionen brauchst du eine Hue Bridge (separat oder im Starter-Set).",
@@ -122,7 +127,8 @@
           "url": "https://www.amazon.de/dp/B0D53ZHM7Y?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/61vz-zXGVlL._AC_SL1500_.jpg",
           "ratingApprox": 4.7,
-          "reviewCountApprox": 190
+          "reviewCountApprox": 190,
+          "marketplace": "amazon"
         }
       ]
     },
@@ -142,9 +148,15 @@
           "url": "https://www.amazon.de/dp/B0C5RZPG1N?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/41QTNF82BZL._AC_SL1500_.jpg",
           "ratingApprox": 5.0,
-          "reviewCountApprox": 1
+          "reviewCountApprox": 1,
+          "marketplace": "amazon"
         }
       ]
     }
+  ],
+  "ebayCampaignId": "",
+  "marketplaces": [
+    "amazon",
+    "ebay"
   ]
 }
