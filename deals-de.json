@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T00:06:39+02:00",
+  "updatedAt": "2026-09-07T00:13:37+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -14,9 +14,9 @@
     "es": "Recomendado y compatible"
   },
   "moreOffersSectionTitle": {
-    "de": "Weitere Angebote",
-    "en": "More offers",
-    "es": "Más ofertas"
+    "de": "Kompatibel",
+    "en": "Compatible",
+    "es": "Compatible"
   },
   "rulesNote": "Amazon + eBay as separate variants per pack size. App 1.4 currently displays only up to 2 variants (1er+2er) — needs bau to show all marketplace buttons. eBay URLs are direct ebay.de/itm with EPN query params (campid), not rover.ebay.com. Drop eBay offers with absurd shipping totals.",
   "recommended": [
