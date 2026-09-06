@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:09:43+02:00",
+  "updatedAt": "2026-09-06T23:14:25+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "schemaVersion": 2,
@@ -13,23 +13,23 @@
     "en": "More offers",
     "es": "Más ofertas"
   },
-  "rulesNote": "recommended = easiest for SmartSunrise (WiZ, Shelly). moreOffers = Hue (bridge sold separately + starter bundle with bridge) and Yeelight. HARD RULE: every ASIN must be buyable on amazon.de (not 'derzeit nicht verfügbar'), with a working product image; replace or drop unavailable listings.",
+  "rulesNote": "recommended = easiest for SmartSunrise (WiZ, Shelly). moreOffers = Hue (bridge sold separately + starter bundle with bridge) and Yeelight. HARD RULES: every ASIN must be buyable on amazon.de with working image; priceEurApprox must match live buy-box scrape (never invent/guess).",
   "recommended": [
     {
       "id": "wiz-colors-e27",
       "brand": "Philips WiZ",
       "model": "Colors E27",
-      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0BFJLTTL7.01.LZZZZZZZ.jpg",
-      "ratingApprox": 4.5,
-      "reviewCountApprox": 985,
+      "imageUrl": "https://m.media-amazon.com/images/I/71fz+yNT4lL._AC_SL1500_.jpg",
+      "ratingApprox": 4.6,
+      "reviewCountApprox": 185,
       "variants": [
         {
           "asin": "B0BFJLTTL7",
           "packSize": 1,
           "label": "1 Stück",
-          "priceEurApprox": 8.75,
+          "priceEurApprox": 8.96,
           "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
-          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0BFJLTTL7.01.LZZZZZZZ.jpg",
+          "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
           "ratingApprox": 4.5,
           "reviewCountApprox": 985
         },
@@ -37,9 +37,9 @@
           "asin": "B0FLX33KD3",
           "packSize": 2,
           "label": "2er-Pack",
-          "priceEurApprox": 18.54,
+          "priceEurApprox": 18.99,
           "url": "https://www.amazon.de/dp/B0FLX33KD3?tag=freiwerk0b-21",
-          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FLX33KD3.01.LZZZZZZZ.jpg",
+          "imageUrl": "https://m.media-amazon.com/images/I/71fz+yNT4lL._AC_SL1500_.jpg",
           "ratingApprox": 4.6,
           "reviewCountApprox": 185
         }
@@ -49,19 +49,19 @@
       "id": "shelly-duo-rgbw-e27",
       "brand": "Shelly",
       "model": "Duo RGBW E27",
-      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B08XYFYF2D.01.LZZZZZZZ.jpg",
-      "ratingApprox": 4.1,
-      "reviewCountApprox": 200,
+      "imageUrl": "https://m.media-amazon.com/images/I/41noMXooN5L._AC_SL1200_.jpg",
+      "ratingApprox": 4.2,
+      "reviewCountApprox": 435,
       "variants": [
         {
-          "asin": "B08XYFYF2D",
+          "asin": "B09TFQV1XC",
           "packSize": 1,
           "label": "1 Stück",
-          "priceEurApprox": 24.9,
-          "url": "https://www.amazon.de/dp/B08XYFYF2D?tag=freiwerk0b-21",
-          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B08XYFYF2D.01.LZZZZZZZ.jpg",
-          "ratingApprox": 4.1,
-          "reviewCountApprox": 200
+          "priceEurApprox": 14.16,
+          "url": "https://www.amazon.de/dp/B09TFQV1XC?tag=freiwerk0b-21",
+          "imageUrl": "https://m.media-amazon.com/images/I/41noMXooN5L._AC_SL1200_.jpg",
+          "ratingApprox": 4.2,
+          "reviewCountApprox": 435
         }
       ]
     }
@@ -71,7 +71,7 @@
       "id": "hue-color-e27",
       "brand": "Philips Hue",
       "model": "White & Color Ambiance E27",
-      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8TQFGP.01.LZZZZZZZ.jpg",
+      "imageUrl": "https://m.media-amazon.com/images/I/71NVkClNr4L._AC_SL1500_.jpg",
       "ratingApprox": 4.7,
       "reviewCountApprox": 159,
       "variants": [
@@ -79,9 +79,9 @@
           "asin": "B0FJ8TQFGP",
           "packSize": 1,
           "label": "1 Stück",
-          "priceEurApprox": 50.64,
+          "priceEurApprox": 45.49,
           "url": "https://www.amazon.de/dp/B0FJ8TQFGP?tag=freiwerk0b-21",
-          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8TQFGP.01.LZZZZZZZ.jpg",
+          "imageUrl": "https://m.media-amazon.com/images/I/61kAhlbYctL._AC_SL1500_.jpg",
           "ratingApprox": 4.7,
           "reviewCountApprox": 159
         },
@@ -89,11 +89,11 @@
           "asin": "B0FJ8WXXLN",
           "packSize": 2,
           "label": "2er-Pack",
-          "priceEurApprox": 82.92,
+          "priceEurApprox": 84.99,
           "url": "https://www.amazon.de/dp/B0FJ8WXXLN?tag=freiwerk0b-21",
-          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8WXXLN.01.LZZZZZZZ.jpg",
-          "ratingApprox": 4.6,
-          "reviewCountApprox": 50
+          "imageUrl": "https://m.media-amazon.com/images/I/71NVkClNr4L._AC_SL1500_.jpg",
+          "ratingApprox": 4.7,
+          "reviewCountApprox": 159
         }
       ],
       "compatibilityNote": "Für SmartSunrise und volle Hue-Funktionen brauchst du eine Hue Bridge (separat oder im Starter-Set).",
@@ -108,9 +108,9 @@
       "id": "hue-starter-2-bridge",
       "brand": "Philips Hue",
       "model": "Starter-Set: 2× Color E27 + Bridge (Bridge enthalten)",
-      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0D53ZHM7Y.01.LZZZZZZZ.jpg",
+      "imageUrl": "https://m.media-amazon.com/images/I/61vz-zXGVlL._AC_SL1500_.jpg",
       "ratingApprox": 4.7,
-      "reviewCountApprox": 180,
+      "reviewCountApprox": 190,
       "bridgeRequired": false,
       "bridgeIncluded": true,
       "variants": [
@@ -120,9 +120,9 @@
           "label": "2 Lampen + Bridge",
           "priceEurApprox": 96.0,
           "url": "https://www.amazon.de/dp/B0D53ZHM7Y?tag=freiwerk0b-21",
-          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0D53ZHM7Y.01.LZZZZZZZ.jpg",
+          "imageUrl": "https://m.media-amazon.com/images/I/61vz-zXGVlL._AC_SL1500_.jpg",
           "ratingApprox": 4.7,
-          "reviewCountApprox": 180
+          "reviewCountApprox": 190
         }
       ]
     },
@@ -138,7 +138,7 @@
           "asin": "B0C5RZPG1N",
           "packSize": 4,
           "label": "4er-Pack",
-          "priceEurApprox": 35.0,
+          "priceEurApprox": 35.79,
           "url": "https://www.amazon.de/dp/B0C5RZPG1N?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/41QTNF82BZL._AC_SL1500_.jpg",
           "ratingApprox": 5.0,
