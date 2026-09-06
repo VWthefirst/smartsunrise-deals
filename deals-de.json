@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T22:59:52+02:00",
+  "updatedAt": "2026-09-06T23:03:21+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "schemaVersion": 2,
@@ -70,7 +70,7 @@
     {
       "id": "hue-color-e27",
       "brand": "Philips Hue",
-      "model": "White & Color Ambiance E27 — Bridge muss gesondert erworben werden",
+      "model": "White & Color Ambiance E27",
       "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8TQFGP.01.LZZZZZZZ.jpg",
       "ratingApprox": 4.7,
       "reviewCountApprox": 159,
@@ -96,8 +96,13 @@
           "reviewCountApprox": 50
         }
       ],
-      "compatibilityNote": "Für SmartSunrise und volle Hue-Funktionen: Hue Bridge separat kaufen (oder Starter-Set mit Bridge wählen).",
-      "bridgeRequired": true
+      "compatibilityNote": "Für SmartSunrise und volle Hue-Funktionen brauchst du eine Hue Bridge (separat oder im Starter-Set).",
+      "bridgeRequired": true,
+      "warning": {
+        "de": "Bridge muss gesondert erworben werden",
+        "en": "Bridge must be purchased separately",
+        "es": "El Bridge debe comprarse por separado"
+      }
     },
     {
       "id": "hue-starter-2-bridge",
