@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T09:35:40+02:00",
+  "updatedAt": "2026-09-07T12:17:20+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -18,7 +18,7 @@
     "en": "Compatible",
     "es": "Compatible"
   },
-  "rulesNote": "Supported brands for deals: Philips WiZ (Colors A60), Philips Hue (White & Color Ambiance), Shelly (Multicolor/true RGBW only). No Yeelight. Amazon + eBay variants; eBay only Sofort-Kaufen shop Dauerangebote with solid feedback — omit eBay rather than junk. Direct ebay.de/itm + EPN campid, not rover. Live prices only.",
+  "rulesNote": "Temporary slim feed: only Philips WiZ Colors A60 E27 with ONE listing. Omit Amazon or eBay entirely if no clean Dauerangebot. Live prices only (incl. eBay shipping) — never invent. New ASIN/itemId needs chat approval; same-id price updates OK.",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -33,106 +33,14 @@
           "packSize": 1,
           "label": "Amazon · 1 Stück",
           "marketplace": "amazon",
-          "priceEurApprox": 7.53,
+          "priceEurApprox": 8.74,
           "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
           "ratingApprox": 4.5,
           "reviewCountApprox": 985
-        },
-        {
-          "asin": "B0FLX33KD3",
-          "packSize": 2,
-          "label": "Amazon · 2er-Pack",
-          "marketplace": "amazon",
-          "priceEurApprox": 15.96,
-          "url": "https://www.amazon.de/dp/B0FLX33KD3?tag=freiwerk0b-21",
-          "imageUrl": "https://m.media-amazon.com/images/I/71fz+yNT4lL._AC_SL1500_.jpg",
-          "ratingApprox": 4.6,
-          "reviewCountApprox": 185
         }
       ]
     }
   ],
-  "moreOffers": [
-    {
-      "id": "hue-color-e27",
-      "brand": "Philips Hue",
-      "model": "White & Color Ambiance E27",
-      "imageUrl": "https://m.media-amazon.com/images/I/61kAhlbYctL._AC_SL1500_.jpg",
-      "ratingApprox": 4.7,
-      "reviewCountApprox": 159,
-      "variants": [
-        {
-          "asin": "B0FJ8TQFGP",
-          "packSize": 1,
-          "label": "Amazon · 1 Stück",
-          "marketplace": "amazon",
-          "priceEurApprox": 43.6,
-          "url": "https://www.amazon.de/dp/B0FJ8TQFGP?tag=freiwerk0b-21",
-          "imageUrl": "https://m.media-amazon.com/images/I/61kAhlbYctL._AC_SL1500_.jpg",
-          "ratingApprox": 4.7,
-          "reviewCountApprox": 159
-        },
-        {
-          "ebayItemId": "404731340556",
-          "packSize": 1,
-          "label": "eBay · 1 Stück",
-          "marketplace": "ebay",
-          "priceEurApprox": 50.89,
-          "url": "https://www.ebay.de/itm/404731340556?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
-          "imageUrl": "https://i.ebayimg.com/images/g/Ax0AAOSwAk1lR9dx/s-l500.webp"
-        },
-        {
-          "asin": "B0FJ8WXXLN",
-          "packSize": 2,
-          "label": "Amazon · 2er-Pack",
-          "marketplace": "amazon",
-          "priceEurApprox": 71.4,
-          "url": "https://www.amazon.de/dp/B0FJ8WXXLN?tag=freiwerk0b-21",
-          "imageUrl": "https://m.media-amazon.com/images/I/71NVkClNr4L._AC_SL1500_.jpg",
-          "ratingApprox": 4.7,
-          "reviewCountApprox": 159
-        },
-        {
-          "ebayItemId": "318131982208",
-          "packSize": 2,
-          "label": "eBay · 2er-Pack",
-          "marketplace": "ebay",
-          "priceEurApprox": 71.0,
-          "url": "https://www.ebay.de/itm/318131982208?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
-          "imageUrl": "https://i.ebayimg.com/images/g/6aUAAeSw69Jp2TP3/s-l500.webp"
-        }
-      ],
-      "compatibilityNote": "Für SmartSunrise und volle Hue-Funktionen brauchst du eine Hue Bridge (separat oder im Starter-Set).",
-      "bridgeRequired": true,
-      "warning": {
-        "de": "Bridge muss gesondert erworben werden",
-        "en": "Bridge must be purchased separately",
-        "es": "El Bridge debe comprarse por separado"
-      }
-    },
-    {
-      "id": "hue-starter-2-bridge",
-      "brand": "Philips Hue",
-      "model": "Starter-Set: 2× Color E27 + Bridge (Bridge enthalten)",
-      "imageUrl": "https://m.media-amazon.com/images/I/61vz-zXGVlL._AC_SL1500_.jpg",
-      "ratingApprox": 4.7,
-      "reviewCountApprox": 190,
-      "bridgeRequired": false,
-      "bridgeIncluded": true,
-      "variants": [
-        {
-          "asin": "B0D53ZHM7Y",
-          "packSize": 2,
-          "label": "Amazon · 2 Lampen + Bridge",
-          "marketplace": "amazon",
-          "priceEurApprox": 90.7,
-          "url": "https://www.amazon.de/dp/B0D53ZHM7Y?tag=freiwerk0b-21",
-          "imageUrl": "https://m.media-amazon.com/images/I/61vz-zXGVlL._AC_SL1500_.jpg",
-          "ratingApprox": 4.7,
-          "reviewCountApprox": 190
-        }
-      ]
-    }
-  ]
+  "moreOffers": []
 }
