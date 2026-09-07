@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T12:17:20+02:00",
+  "updatedAt": "2026-09-07T13:13:45+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -18,7 +18,7 @@
     "en": "Compatible",
     "es": "Compatible"
   },
-  "rulesNote": "Temporary slim feed: only Philips WiZ Colors A60 E27 with ONE listing. Omit Amazon or eBay entirely if no clean Dauerangebot. Live prices only (incl. eBay shipping) — never invent. New ASIN/itemId needs chat approval; same-id price updates OK.",
+  "rulesNote": "One WiZ Colors A60 E27 tile with up to 4 variants: Amazon 1er, Amazon multipack, eBay 1er, eBay multipack. eBay priceEurApprox includes shipping. Live prices only. New listings need chat approval.",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -38,6 +38,39 @@
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
           "ratingApprox": 4.5,
           "reviewCountApprox": 985
+        },
+        {
+          "asin": "B0FLX33KD3",
+          "packSize": 2,
+          "label": "Amazon · 2er-Pack",
+          "marketplace": "amazon",
+          "priceEurApprox": 18.53,
+          "url": "https://www.amazon.de/dp/B0FLX33KD3?tag=freiwerk0b-21",
+          "imageUrl": "https://m.media-amazon.com/images/I/71fz+yNT4lL._AC_SL1500_.jpg",
+          "ratingApprox": 4.6,
+          "reviewCountApprox": 185
+        },
+        {
+          "ebayItemId": "326335071808",
+          "packSize": 1,
+          "label": "eBay · 1 Stück",
+          "marketplace": "ebay",
+          "priceEurApprox": 10.98,
+          "priceItemEur": 4.99,
+          "shippingEur": 5.99,
+          "url": "https://www.ebay.de/itm/326335071808?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
+          "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg"
+        },
+        {
+          "ebayItemId": "206537449861",
+          "packSize": 3,
+          "label": "eBay · 3er-Pack",
+          "marketplace": "ebay",
+          "priceEurApprox": 20.9,
+          "priceItemEur": 16.95,
+          "shippingEur": 3.95,
+          "url": "https://www.ebay.de/itm/206537449861?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
+          "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg"
         }
       ]
     }
