@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-06T23:32:13+02:00",
+  "updatedAt": "2026-09-07T12:54:41+02:00",
   "schemaVersion": 1,
   "latestVersion": "1.4.0",
   "latestVersionCode": 7,
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.freiwerk.smartsunrise",
-  "donateUrl": "",
+  "donateUrl": "https://paypal.me/freiwerk",
   "defaultRemindIntervalMinutes": 86400,
   "items": [
     {
@@ -20,7 +20,7 @@
         "en": "Open Donate",
         "es": "Ir a Donar"
       },
-      "url": "",
+      "url": "https://paypal.me/freiwerk",
       "intervalMinutes": 86400
     }
   ],
