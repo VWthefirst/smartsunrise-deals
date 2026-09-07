@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T13:48:29+02:00",
+  "updatedAt": "2026-09-07T16:27:59+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -18,7 +18,7 @@
     "en": "Compatible",
     "es": "Compatible"
   },
-  "rulesNote": "One WiZ Colors A60 tile, 6 buttons in 2 columns (Amazon|eBay) × 3 rows (1×/2×/3×). For each N, pick cheapest way to get N bulbs (N×1er incl. shipping vs N-pack). If singles win, link 1er with quantity=N. eBay priceEurApprox includes shipping.",
+  "rulesNote": "One WiZ Colors A60 tile, 6 buttons in 2 columns (Amazon|eBay) × 3 rows (1×/2×/3×). For each N, pick cheapest way to get N bulbs (N×1er incl. shipping vs N-pack). If singles win, link 1er with quantity=N. eBay priceEurApprox includes shipping. Affiliate disclosure banner via affiliateDisclosure at top of Deals.",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -116,5 +116,7 @@
       }
     }
   ],
-  "moreOffers": []
+  "moreOffers": [],
+  "affiliateDisclosure": "Werbung / Affiliate-Link. Bei Kauf erhalte ich eine Provision, der Preis bleibt gleich.",
+  "affiliateDisclosureShort": "Werbung"
 }
