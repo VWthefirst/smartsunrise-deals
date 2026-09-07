@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T13:23:23+02:00",
+  "updatedAt": "2026-09-07T13:48:29+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -18,7 +18,7 @@
     "en": "Compatible",
     "es": "Compatible"
   },
-  "rulesNote": "One WiZ Colors A60 E27 tile with up to 4 variants: Amazon 1er, Amazon multipack, eBay 1er, eBay multipack. eBay priceEurApprox includes shipping. Live prices only. New listings need chat approval.",
+  "rulesNote": "One WiZ Colors A60 tile, 6 buttons in 2 columns (Amazon|eBay) × 3 rows (1×/2×/3×). For each N, pick cheapest way to get N bulbs (N×1er incl. shipping vs N-pack). If singles win, link 1er with quantity=N. eBay priceEurApprox includes shipping.",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -36,19 +36,8 @@
           "priceEurApprox": 8.74,
           "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
-          "ratingApprox": 4.5,
-          "reviewCountApprox": 985
-        },
-        {
-          "asin": "B0FLX33KD3",
-          "packSize": 2,
-          "label": "Amazon\n2×",
-          "marketplace": "amazon",
-          "priceEurApprox": 18.53,
-          "url": "https://www.amazon.de/dp/B0FLX33KD3?tag=freiwerk0b-21",
-          "imageUrl": "https://m.media-amazon.com/images/I/71fz+yNT4lL._AC_SL1500_.jpg",
-          "ratingApprox": 4.6,
-          "reviewCountApprox": 185
+          "unitPriceEur": 8.74,
+          "sourcing": "1×1er"
         },
         {
           "ebayItemId": "326335071808",
@@ -56,23 +45,75 @@
           "label": "eBay\n1×",
           "marketplace": "ebay",
           "priceEurApprox": 10.98,
-          "priceItemEur": 4.99,
-          "shippingEur": 5.99,
           "url": "https://www.ebay.de/itm/326335071808?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
-          "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg"
+          "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
+          "unitPriceEur": 10.98,
+          "sourcing": "1×1er",
+          "shippingEur": 5.99,
+          "priceItemEur": 4.99
         },
         {
-          "ebayItemId": "206537449861",
+          "asin": "B0BFJLTTL7",
+          "packSize": 2,
+          "label": "Amazon\n2×",
+          "marketplace": "amazon",
+          "priceEurApprox": 17.48,
+          "url": "https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B0BFJLTTL7&Quantity.1=2&tag=freiwerk0b-21",
+          "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
+          "unitPriceEur": 8.74,
+          "sourcing": "2×1er"
+        },
+        {
+          "ebayItemId": "326335071808",
+          "packSize": 2,
+          "label": "eBay\n2×",
+          "marketplace": "ebay",
+          "priceEurApprox": 14.97,
+          "url": "https://www.ebay.de/itm/326335071808?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1&quantity=2",
+          "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
+          "unitPriceEur": 7.49,
+          "sourcing": "2×1er",
+          "shippingEur": 5.99,
+          "priceItemEur": 8.98
+        },
+        {
+          "asin": "B0BFJLTTL7",
+          "packSize": 3,
+          "label": "Amazon\n3×",
+          "marketplace": "amazon",
+          "priceEurApprox": 26.22,
+          "url": "https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B0BFJLTTL7&Quantity.1=3&tag=freiwerk0b-21",
+          "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
+          "unitPriceEur": 8.74,
+          "sourcing": "3×1er"
+        },
+        {
+          "ebayItemId": "326335071808",
           "packSize": 3,
           "label": "eBay\n3×",
           "marketplace": "ebay",
-          "priceEurApprox": 20.9,
-          "priceItemEur": 16.95,
-          "shippingEur": 3.95,
-          "url": "https://www.ebay.de/itm/206537449861?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
-          "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg"
+          "priceEurApprox": 18.71,
+          "url": "https://www.ebay.de/itm/326335071808?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1&quantity=3",
+          "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
+          "unitPriceEur": 6.24,
+          "sourcing": "3×1er",
+          "shippingEur": 5.99,
+          "priceItemEur": 12.72
         }
-      ]
+      ],
+      "buttonLayout": {
+        "columns": 2,
+        "rows": 3,
+        "columnOrder": [
+          "amazon",
+          "ebay"
+        ],
+        "rowPackSizes": [
+          1,
+          2,
+          3
+        ]
+      }
     }
   ],
   "moreOffers": []
