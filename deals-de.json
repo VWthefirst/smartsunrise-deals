@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T09:05:25+02:00",
+  "updatedAt": "2026-09-07T09:35:40+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -33,7 +33,7 @@
           "packSize": 1,
           "label": "Amazon · 1 Stück",
           "marketplace": "amazon",
-          "priceEurApprox": 8.96,
+          "priceEurApprox": 7.53,
           "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
           "ratingApprox": 4.5,
@@ -44,32 +44,11 @@
           "packSize": 2,
           "label": "Amazon · 2er-Pack",
           "marketplace": "amazon",
-          "priceEurApprox": 18.99,
+          "priceEurApprox": 15.96,
           "url": "https://www.amazon.de/dp/B0FLX33KD3?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71fz+yNT4lL._AC_SL1500_.jpg",
           "ratingApprox": 4.6,
           "reviewCountApprox": 185
-        }
-      ]
-    },
-    {
-      "id": "shelly-duo-rgbw-e27",
-      "brand": "Shelly",
-      "model": "Duo RGBW E27",
-      "imageUrl": "https://m.media-amazon.com/images/I/41noMXooN5L._AC_SL1200_.jpg",
-      "ratingApprox": 4.2,
-      "reviewCountApprox": 435,
-      "variants": [
-        {
-          "asin": "B09TFQV1XC",
-          "packSize": 1,
-          "label": "Amazon · 1 Stück",
-          "marketplace": "amazon",
-          "priceEurApprox": 14.16,
-          "url": "https://www.amazon.de/dp/B09TFQV1XC?tag=freiwerk0b-21",
-          "imageUrl": "https://m.media-amazon.com/images/I/41noMXooN5L._AC_SL1200_.jpg",
-          "ratingApprox": 4.2,
-          "reviewCountApprox": 435
         }
       ]
     }
@@ -88,7 +67,7 @@
           "packSize": 1,
           "label": "Amazon · 1 Stück",
           "marketplace": "amazon",
-          "priceEurApprox": 45.49,
+          "priceEurApprox": 43.6,
           "url": "https://www.amazon.de/dp/B0FJ8TQFGP?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/61kAhlbYctL._AC_SL1500_.jpg",
           "ratingApprox": 4.7,
@@ -108,7 +87,7 @@
           "packSize": 2,
           "label": "Amazon · 2er-Pack",
           "marketplace": "amazon",
-          "priceEurApprox": 84.99,
+          "priceEurApprox": 71.4,
           "url": "https://www.amazon.de/dp/B0FJ8WXXLN?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71NVkClNr4L._AC_SL1500_.jpg",
           "ratingApprox": 4.7,
@@ -147,7 +126,7 @@
           "packSize": 2,
           "label": "Amazon · 2 Lampen + Bridge",
           "marketplace": "amazon",
-          "priceEurApprox": 96.0,
+          "priceEurApprox": 90.7,
           "url": "https://www.amazon.de/dp/B0D53ZHM7Y?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/61vz-zXGVlL._AC_SL1500_.jpg",
           "ratingApprox": 4.7,
