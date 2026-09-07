@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T08:54:52+02:00",
+  "updatedAt": "2026-09-07T08:56:38+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -18,7 +18,7 @@
     "en": "Compatible",
     "es": "Compatible"
   },
-  "rulesNote": "Amazon + eBay as separate variants per pack size. App 1.4 currently displays only up to 2 variants (1er+2er) — needs bau to show all marketplace buttons. eBay URLs are direct ebay.de/itm with EPN query params (campid), not rover.ebay.com. Drop eBay offers with absurd shipping totals.",
+  "rulesNote": "Amazon + eBay as separate variants per pack size. eBay: only Sofort-Kaufen Dauerangebote from shops with solid feedback — never private one-off sellers / auctions / qty=1 private listings. Prefer Idealo→shop discovery; drop absurd shipping. Direct ebay.de/itm + EPN campid, not rover.",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -40,15 +40,6 @@
           "reviewCountApprox": 985
         },
         {
-          "ebayItemId": "357812686044",
-          "packSize": 1,
-          "label": "eBay · 1 Stück",
-          "marketplace": "ebay",
-          "priceEurApprox": 12.55,
-          "url": "https://www.ebay.de/itm/357812686044?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
-          "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg"
-        },
-        {
           "asin": "B0FLX33KD3",
           "packSize": 2,
           "label": "Amazon · 2er-Pack",
@@ -58,15 +49,6 @@
           "imageUrl": "https://m.media-amazon.com/images/I/71fz+yNT4lL._AC_SL1500_.jpg",
           "ratingApprox": 4.6,
           "reviewCountApprox": 185
-        },
-        {
-          "ebayItemId": "286911656783",
-          "packSize": 3,
-          "label": "eBay · 3er-Pack",
-          "marketplace": "ebay",
-          "priceEurApprox": 15.2,
-          "url": "https://www.ebay.de/itm/286911656783?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
-          "imageUrl": "https://m.media-amazon.com/images/I/71fz+yNT4lL._AC_SL1500_.jpg"
         }
       ]
     },
