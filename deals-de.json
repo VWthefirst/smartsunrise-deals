@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T08:56:38+02:00",
+  "updatedAt": "2026-09-07T09:05:25+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -18,7 +18,7 @@
     "en": "Compatible",
     "es": "Compatible"
   },
-  "rulesNote": "Amazon + eBay as separate variants per pack size. eBay: only Sofort-Kaufen Dauerangebote from shops with solid feedback — never private one-off sellers / auctions / qty=1 private listings. Prefer Idealo→shop discovery; drop absurd shipping. Direct ebay.de/itm + EPN campid, not rover.",
+  "rulesNote": "Supported brands for deals: Philips WiZ (Colors A60), Philips Hue (White & Color Ambiance), Shelly (Multicolor/true RGBW only). No Yeelight. Amazon + eBay variants; eBay only Sofort-Kaufen shop Dauerangebote with solid feedback — omit eBay rather than junk. Direct ebay.de/itm + EPN campid, not rover. Live prices only.",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -152,27 +152,6 @@
           "imageUrl": "https://m.media-amazon.com/images/I/61vz-zXGVlL._AC_SL1500_.jpg",
           "ratingApprox": 4.7,
           "reviewCountApprox": 190
-        }
-      ]
-    },
-    {
-      "id": "yeelight-w4-lite-e27",
-      "brand": "Yeelight",
-      "model": "W4 Lite Color E27 (4er-Pack)",
-      "imageUrl": "https://m.media-amazon.com/images/I/41QTNF82BZL._AC_SL1500_.jpg",
-      "ratingApprox": 5.0,
-      "reviewCountApprox": 1,
-      "variants": [
-        {
-          "asin": "B0C5RZPG1N",
-          "packSize": 4,
-          "label": "Amazon · 4er-Pack",
-          "marketplace": "amazon",
-          "priceEurApprox": 35.79,
-          "url": "https://www.amazon.de/dp/B0C5RZPG1N?tag=freiwerk0b-21",
-          "imageUrl": "https://m.media-amazon.com/images/I/41QTNF82BZL._AC_SL1500_.jpg",
-          "ratingApprox": 5.0,
-          "reviewCountApprox": 1
         }
       ]
     }
