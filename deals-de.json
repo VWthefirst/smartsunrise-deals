@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T09:33:46+02:00",
+  "updatedAt": "2026-09-10T09:19:22+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -33,11 +33,11 @@
           "packSize": 1,
           "label": "Amazon\n1×",
           "marketplace": "amazon",
-          "priceEurApprox": 9.08,
           "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
-          "unitPriceEur": 9.08,
-          "sourcing": "1×1er"
+          "sourcing": "1×1er",
+          "priceEurApprox": 9.08,
+          "unitPriceEur": 9.08
         },
         {
           "ebayItemId": "326335071808",
@@ -57,48 +57,48 @@
           "packSize": 2,
           "label": "Amazon\n2×",
           "marketplace": "amazon",
-          "priceEurApprox": 18.16,
           "url": "https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B0BFJLTTL7&Quantity.1=2&tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
-          "unitPriceEur": 9.08,
-          "sourcing": "2×1er"
+          "sourcing": "2×1er",
+          "priceEurApprox": 18.16,
+          "unitPriceEur": 9.08
         },
         {
           "ebayItemId": "326335071808",
           "packSize": 2,
           "label": "eBay\n2×",
           "marketplace": "ebay",
-          "priceEurApprox": 14.97,
+          "priceEurApprox": 15.97,
           "url": "https://www.ebay.de/itm/326335071808?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1&quantity=2",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
-          "unitPriceEur": 7.49,
+          "unitPriceEur": 7.99,
           "sourcing": "2×1er",
           "shippingEur": 5.99,
-          "priceItemEur": 8.98
+          "priceItemEur": 9.98
         },
         {
           "asin": "B0BFJLTTL7",
           "packSize": 3,
           "label": "Amazon\n3×",
           "marketplace": "amazon",
-          "priceEurApprox": 27.24,
           "url": "https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B0BFJLTTL7&Quantity.1=3&tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
-          "unitPriceEur": 9.08,
-          "sourcing": "3×1er"
+          "sourcing": "3×1er",
+          "priceEurApprox": 27.24,
+          "unitPriceEur": 9.08
         },
         {
           "ebayItemId": "326335071808",
           "packSize": 3,
           "label": "eBay\n3×",
           "marketplace": "ebay",
-          "priceEurApprox": 18.71,
+          "priceEurApprox": 20.96,
           "url": "https://www.ebay.de/itm/326335071808?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1&quantity=3",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
-          "unitPriceEur": 6.24,
+          "unitPriceEur": 6.99,
           "sourcing": "3×1er",
           "shippingEur": 5.99,
-          "priceItemEur": 12.72
+          "priceItemEur": 14.97
         }
       ],
       "buttonLayout": {
