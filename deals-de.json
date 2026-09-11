@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T09:19:22+02:00",
+  "updatedAt": "2026-09-11T09:28:29+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -68,13 +68,13 @@
           "packSize": 2,
           "label": "eBay\n2×",
           "marketplace": "ebay",
-          "priceEurApprox": 15.97,
+          "priceEurApprox": 14.97,
           "url": "https://www.ebay.de/itm/326335071808?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1&quantity=2",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
-          "unitPriceEur": 7.99,
+          "unitPriceEur": 7.49,
           "sourcing": "2×1er",
           "shippingEur": 5.99,
-          "priceItemEur": 9.98
+          "priceItemEur": 8.98
         },
         {
           "asin": "B0BFJLTTL7",
@@ -92,13 +92,13 @@
           "packSize": 3,
           "label": "eBay\n3×",
           "marketplace": "ebay",
-          "priceEurApprox": 20.96,
+          "priceEurApprox": 18.71,
           "url": "https://www.ebay.de/itm/326335071808?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1&quantity=3",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
-          "unitPriceEur": 6.99,
+          "unitPriceEur": 6.24,
           "sourcing": "3×1er",
           "shippingEur": 5.99,
-          "priceItemEur": 14.97
+          "priceItemEur": 12.72
         }
       ],
       "buttonLayout": {
