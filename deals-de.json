@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T15:15:02+02:00",
+  "updatedAt": "2026-09-21T15:58:00+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -18,7 +18,7 @@
     "en": "Compatible",
     "es": "Compatible"
   },
-  "rulesNote": "One WiZ Colors A60 tile, 6 buttons in 2 columns (Amazon|eBay) × 3 rows (1×/2×/3×). For each N, pick cheapest way to get N bulbs (N×1er incl. shipping vs N-pack). If singles win, link 1er with quantity=N. eBay priceEurApprox includes shipping. Affiliate disclosure banner via affiliateDisclosure at top of Deals.",
+  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). Hue Premium Amazon 1× = Amazon-fulfilled €47.75 (3rd-party one-time €44.50 also exists). Hue Premium eBay 1×/Amazon+eBay 3× omitted. Shelly Amazon omitted; eBay 2× = 2×Einzeln (no 2er Packungsgröße).",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -114,9 +114,197 @@
           3
         ]
       }
+    },
+    {
+      "id": "hue-color-ambiance-e27",
+      "brand": "Philips Hue",
+      "model": "White & Color Ambiance E27",
+      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8TQFGP.01.LZZZZZZZ.jpg",
+      "ratingApprox": 4.7,
+      "reviewCountApprox": 490,
+      "bridgeRequired": true,
+      "compatibilityNote": "Für SmartSunrise und volle Hue-Funktionen brauchst du eine Hue Bridge (separat oder im Starter-Set).",
+      "warning": {
+        "de": "Bridge muss gesondert erworben werden",
+        "en": "Bridge must be purchased separately",
+        "es": "El Bridge debe comprarse por separado"
+      },
+      "variants": [
+        {
+          "asin": "B0FJ8TQFGP",
+          "packSize": 1,
+          "label": "Amazon\n1×",
+          "marketplace": "amazon",
+          "url": "https://www.amazon.de/dp/B0FJ8TQFGP?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8TQFGP.01.LZZZZZZZ.jpg",
+          "sourcing": "1×1er",
+          "priceEurApprox": 47.75,
+          "unitPriceEur": 47.75
+        },
+        {
+          "asin": "B0FJ8WXXLN",
+          "packSize": 2,
+          "label": "Amazon\n2×",
+          "marketplace": "amazon",
+          "url": "https://www.amazon.de/dp/B0FJ8WXXLN?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8WXXLN.01.LZZZZZZZ.jpg",
+          "sourcing": "1×2er",
+          "priceEurApprox": 79.28,
+          "unitPriceEur": 39.64
+        },
+        {
+          "ebayItemId": "188091330966",
+          "packSize": 2,
+          "label": "eBay\n2×",
+          "marketplace": "ebay",
+          "url": "https://www.ebay.de/itm/188091330966?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8WXXLN.01.LZZZZZZZ.jpg",
+          "sourcing": "1×2er",
+          "priceEurApprox": 58.99,
+          "unitPriceEur": 29.5,
+          "shippingEur": 0.0,
+          "priceItemEur": 58.99
+        }
+      ],
+      "buttonLayout": {
+        "columns": 2,
+        "rows": 2,
+        "columnOrder": [
+          "amazon",
+          "ebay"
+        ],
+        "rowPackSizes": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "id": "hue-essential-color-e27",
+      "brand": "Philips Hue",
+      "model": "Essential White & Color Ambiance E27",
+      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8YC69S.01.LZZZZZZZ.jpg",
+      "ratingApprox": 4.5,
+      "reviewCountApprox": 50,
+      "bridgeRequired": true,
+      "compatibilityNote": "Günstigere Hue-Variante (806 lm). Bridge nötig. Kein sauberes eBay-Shop-Dauerangebot — eBay-Spalte weggelassen.",
+      "warning": {
+        "de": "Bridge muss gesondert erworben werden",
+        "en": "Bridge must be purchased separately",
+        "es": "El Bridge debe comprarse por separado"
+      },
+      "variants": [
+        {
+          "asin": "B0FJ8YC69S",
+          "packSize": 1,
+          "label": "Amazon\n1×",
+          "marketplace": "amazon",
+          "url": "https://www.amazon.de/dp/B0FJ8YC69S?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8YC69S.01.LZZZZZZZ.jpg",
+          "sourcing": "1×1er",
+          "priceEurApprox": 22.99,
+          "unitPriceEur": 22.99
+        },
+        {
+          "asin": "B0FJ8YC69S",
+          "packSize": 2,
+          "label": "Amazon\n2×",
+          "marketplace": "amazon",
+          "url": "https://www.amazon.de/dp/B0FJ8YC69S?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8YC69S.01.LZZZZZZZ.jpg",
+          "sourcing": "2×1er",
+          "priceEurApprox": 45.98,
+          "unitPriceEur": 22.99
+        },
+        {
+          "asin": "B0FJ8YC69S",
+          "packSize": 3,
+          "label": "Amazon\n3×",
+          "marketplace": "amazon",
+          "url": "https://www.amazon.de/dp/B0FJ8YC69S?tag=freiwerk0b-21",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8YC69S.01.LZZZZZZZ.jpg",
+          "sourcing": "3×1er",
+          "priceEurApprox": 68.97,
+          "unitPriceEur": 22.99
+        }
+      ],
+      "buttonLayout": {
+        "columns": 1,
+        "rows": 3,
+        "columnOrder": [
+          "amazon"
+        ],
+        "rowPackSizes": [
+          1,
+          2,
+          3
+        ]
+      }
     }
   ],
-  "moreOffers": [],
+  "moreOffers": [
+    {
+      "id": "shelly-multicolor-e27-gen3",
+      "brand": "Shelly",
+      "model": "Multicolor Bulb E27 Gen3",
+      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0GTMTGTNN.01.LZZZZZZZ.jpg",
+      "ratingApprox": 4.5,
+      "reviewCountApprox": 50,
+      "variants": [
+        {
+          "ebayItemId": "147548141466",
+          "packSize": 1,
+          "label": "eBay\n1×",
+          "marketplace": "ebay",
+          "url": "https://www.ebay.de/itm/147548141466?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0GTMTGTNN.01.LZZZZZZZ.jpg",
+          "sourcing": "1×1er",
+          "priceEurApprox": 13.89,
+          "unitPriceEur": 13.89,
+          "shippingEur": 3.9,
+          "priceItemEur": 9.99
+        },
+        {
+          "ebayItemId": "147548141466",
+          "packSize": 2,
+          "label": "eBay\n2×",
+          "marketplace": "ebay",
+          "url": "https://www.ebay.de/itm/147548141466?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1&quantity=2",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0GTMTGTNN.01.LZZZZZZZ.jpg",
+          "sourcing": "2×1er",
+          "priceEurApprox": 23.88,
+          "unitPriceEur": 11.94,
+          "shippingEur": 3.9,
+          "priceItemEur": 19.98
+        },
+        {
+          "ebayItemId": "147548141466",
+          "packSize": 3,
+          "label": "eBay\n3×",
+          "marketplace": "ebay",
+          "url": "https://www.ebay.de/itm/147548141466?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0GTMTGTNN.01.LZZZZZZZ.jpg",
+          "sourcing": "1×3er",
+          "priceEurApprox": 30.89,
+          "unitPriceEur": 10.3,
+          "shippingEur": 3.9,
+          "priceItemEur": 26.99
+        }
+      ],
+      "buttonLayout": {
+        "columns": 1,
+        "rows": 3,
+        "columnOrder": [
+          "ebay"
+        ],
+        "rowPackSizes": [
+          1,
+          2,
+          3
+        ]
+      }
+    }
+  ],
   "affiliateDisclosure": "Beim Kauf erhält der Entwickler eine Provision. Der Preis bleibt für dich gleich.",
   "affiliateDisclosureShort": "Werbung"
 }
