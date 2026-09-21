@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T09:26:18+02:00",
+  "updatedAt": "2026-09-21T15:15:02+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -36,8 +36,8 @@
           "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
           "sourcing": "1×1er",
-          "priceEurApprox": 6.46,
-          "unitPriceEur": 6.46
+          "priceEurApprox": 7.69,
+          "unitPriceEur": 7.69
         },
         {
           "ebayItemId": "326335071808",
@@ -57,11 +57,11 @@
           "packSize": 2,
           "label": "Amazon\n2×",
           "marketplace": "amazon",
-          "url": "https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B0BFJLTTL7&Quantity.1=2&tag=freiwerk0b-21",
+          "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
           "sourcing": "2×1er",
-          "priceEurApprox": 12.92,
-          "unitPriceEur": 6.46
+          "priceEurApprox": 15.38,
+          "unitPriceEur": 7.69
         },
         {
           "ebayItemId": "326335071808",
@@ -81,11 +81,11 @@
           "packSize": 3,
           "label": "Amazon\n3×",
           "marketplace": "amazon",
-          "url": "https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B0BFJLTTL7&Quantity.1=3&tag=freiwerk0b-21",
+          "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
           "sourcing": "3×1er",
-          "priceEurApprox": 19.38,
-          "unitPriceEur": 6.46
+          "priceEurApprox": 23.07,
+          "unitPriceEur": 7.69
         },
         {
           "ebayItemId": "326335071808",
