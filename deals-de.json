@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T15:58:00+02:00",
+  "updatedAt": "2026-09-22T09:29:14+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -18,7 +18,7 @@
     "en": "Compatible",
     "es": "Compatible"
   },
-  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). Hue Premium Amazon 1× = Amazon-fulfilled €47.75 (3rd-party one-time €44.50 also exists). Hue Premium eBay 1×/Amazon+eBay 3× omitted. Shelly Amazon omitted; eBay 2× = 2×Einzeln (no 2er Packungsgröße).",
+  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). Hue Premium Amazon 1× = Amazon-fulfilled €47.75 (3rd-party buy-box €44.50 ReShop2407 also exists). Hue Premium Amazon 2× = Amazon-shipped Neu €81.03 (3rd-party buy-box €77.50 ReShop2407; Gebraucht/Retourenkauf lower omitted). Hue Premium eBay 1×/Amazon+eBay 3× omitted. Shelly Amazon omitted; eBay 2× = 2×Einzeln (no 2er Packungsgröße).",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -149,8 +149,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8WXXLN?tag=freiwerk0b-21",
           "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8WXXLN.01.LZZZZZZZ.jpg",
           "sourcing": "1×2er",
-          "priceEurApprox": 79.28,
-          "unitPriceEur": 39.64
+          "priceEurApprox": 81.03,
+          "unitPriceEur": 40.52
         },
         {
           "ebayItemId": "188091330966",
