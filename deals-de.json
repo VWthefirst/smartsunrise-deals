@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T09:29:14+02:00",
+  "updatedAt": "2026-09-23T09:11:30+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -18,7 +18,7 @@
     "en": "Compatible",
     "es": "Compatible"
   },
-  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). Hue Premium Amazon 1× = Amazon-fulfilled €47.75 (3rd-party buy-box €44.50 ReShop2407 also exists). Hue Premium Amazon 2× = Amazon-shipped Neu €81.03 (3rd-party buy-box €77.50 ReShop2407; Gebraucht/Retourenkauf lower omitted). Hue Premium eBay 1×/Amazon+eBay 3× omitted. Shelly Amazon omitted; eBay 2× = 2×Einzeln (no 2er Packungsgröße).",
+  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). Hue Premium Amazon 1× = Amazon-fulfilled €39.97 (3rd-party ReShop2407 €44.50 also exists). Hue Premium Amazon 2× = Amazon-shipped Neu €79.79 MS-CommerceX (3rd-party buy-box €77.50 ReShop2407; Gebraucht/Retourenkauf lower omitted). Hue Premium eBay 1×/Amazon+eBay 3× omitted. Shelly Amazon omitted; eBay 2× = 2×Einzeln (no 2er Packungsgröße).",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -36,8 +36,8 @@
           "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
           "sourcing": "1×1er",
-          "priceEurApprox": 7.69,
-          "unitPriceEur": 7.69
+          "priceEurApprox": 7.2,
+          "unitPriceEur": 7.2
         },
         {
           "ebayItemId": "326335071808",
@@ -60,8 +60,8 @@
           "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
           "sourcing": "2×1er",
-          "priceEurApprox": 15.38,
-          "unitPriceEur": 7.69
+          "priceEurApprox": 14.4,
+          "unitPriceEur": 7.2
         },
         {
           "ebayItemId": "326335071808",
@@ -84,8 +84,8 @@
           "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
           "sourcing": "3×1er",
-          "priceEurApprox": 23.07,
-          "unitPriceEur": 7.69
+          "priceEurApprox": 21.6,
+          "unitPriceEur": 7.2
         },
         {
           "ebayItemId": "326335071808",
@@ -138,8 +138,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8TQFGP?tag=freiwerk0b-21",
           "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8TQFGP.01.LZZZZZZZ.jpg",
           "sourcing": "1×1er",
-          "priceEurApprox": 47.75,
-          "unitPriceEur": 47.75
+          "priceEurApprox": 39.97,
+          "unitPriceEur": 39.97
         },
         {
           "asin": "B0FJ8WXXLN",
@@ -149,8 +149,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8WXXLN?tag=freiwerk0b-21",
           "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8WXXLN.01.LZZZZZZZ.jpg",
           "sourcing": "1×2er",
-          "priceEurApprox": 81.03,
-          "unitPriceEur": 40.52
+          "priceEurApprox": 79.79,
+          "unitPriceEur": 39.9
         },
         {
           "ebayItemId": "188091330966",
