@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T09:03:36+02:00",
+  "updatedAt": "2026-09-28T09:05:13+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -18,7 +18,7 @@
     "en": "Compatible",
     "es": "Compatible"
   },
-  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). Hue Premium Amazon 1× = Amazon retail buybox €47.75 (3rd-party ReShop2407 €44.50 ignored). Hue Premium Amazon 2× = Amazon-shipped Neu €79.31 MS-CommerceX (buy-box €77.00 Light Gallery Netherlands not Amazon-fulfilled; Gebraucht/Retourenkauf omitted). Hue Premium eBay 1×/Amazon+eBay 3× omitted. Shelly Amazon omitted; eBay 2× = 2×Einzeln (no 2er Packungsgröße).",
+  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). Hue Premium Amazon 1× = Amazon retail buybox €43.96 (3rd-party ReShop2407 €44.50 ignored). Hue Premium Amazon 2× = Amazon-shipped Neu €79.31 MS-CommerceX (buy-box €77.00 Light Gallery Netherlands not Amazon-fulfilled; Gebraucht/Retourenkauf omitted). Hue Premium eBay 188091330966 omitted (nicht mehr vorrätig / OOS). Hue Premium Amazon+eBay 3× omitted. Shelly Amazon omitted; eBay 2× = 2×Einzeln (no 2er Packungsgröße).",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -138,8 +138,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8TQFGP?tag=freiwerk0b-21",
           "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8TQFGP.01.LZZZZZZZ.jpg",
           "sourcing": "1×1er",
-          "priceEurApprox": 47.75,
-          "unitPriceEur": 47.75
+          "priceEurApprox": 43.96,
+          "unitPriceEur": 43.96
         },
         {
           "asin": "B0FJ8WXXLN",
@@ -151,27 +151,13 @@
           "sourcing": "1×2er",
           "priceEurApprox": 79.31,
           "unitPriceEur": 39.66
-        },
-        {
-          "ebayItemId": "188091330966",
-          "packSize": 2,
-          "label": "eBay\n2×",
-          "marketplace": "ebay",
-          "url": "https://www.ebay.de/itm/188091330966?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5339084095&customid=smartsunrise&toolid=10001&mkevt=1",
-          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8WXXLN.01.LZZZZZZZ.jpg",
-          "sourcing": "1×2er",
-          "priceEurApprox": 58.99,
-          "unitPriceEur": 29.5,
-          "shippingEur": 0.0,
-          "priceItemEur": 58.99
         }
       ],
       "buttonLayout": {
-        "columns": 2,
+        "columns": 1,
         "rows": 2,
         "columnOrder": [
-          "amazon",
-          "ebay"
+          "amazon"
         ],
         "rowPackSizes": [
           1,
@@ -202,8 +188,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8YC69S?tag=freiwerk0b-21",
           "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8YC69S.01.LZZZZZZZ.jpg",
           "sourcing": "1×1er",
-          "priceEurApprox": 22.99,
-          "unitPriceEur": 22.99
+          "priceEurApprox": 24.99,
+          "unitPriceEur": 24.99
         },
         {
           "asin": "B0FJ8YC69S",
@@ -213,8 +199,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8YC69S?tag=freiwerk0b-21",
           "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8YC69S.01.LZZZZZZZ.jpg",
           "sourcing": "2×1er",
-          "priceEurApprox": 45.98,
-          "unitPriceEur": 22.99
+          "priceEurApprox": 49.98,
+          "unitPriceEur": 24.99
         },
         {
           "asin": "B0FJ8YC69S",
@@ -224,8 +210,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8YC69S?tag=freiwerk0b-21",
           "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8YC69S.01.LZZZZZZZ.jpg",
           "sourcing": "3×1er",
-          "priceEurApprox": 68.97,
-          "unitPriceEur": 22.99
+          "priceEurApprox": 74.97,
+          "unitPriceEur": 24.99
         }
       ],
       "buttonLayout": {
