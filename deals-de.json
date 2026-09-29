@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:05:13+02:00",
+  "updatedAt": "2026-09-29T08:58:34+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -18,7 +18,7 @@
     "en": "Compatible",
     "es": "Compatible"
   },
-  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). Hue Premium Amazon 1× = Amazon retail buybox €43.96 (3rd-party ReShop2407 €44.50 ignored). Hue Premium Amazon 2× = Amazon-shipped Neu €79.31 MS-CommerceX (buy-box €77.00 Light Gallery Netherlands not Amazon-fulfilled; Gebraucht/Retourenkauf omitted). Hue Premium eBay 188091330966 omitted (nicht mehr vorrätig / OOS). Hue Premium Amazon+eBay 3× omitted. Shelly Amazon omitted; eBay 2× = 2×Einzeln (no 2er Packungsgröße).",
+  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). Hue Premium Amazon 1× = Amazon retail buybox €46.13 (Retourenkauf €39.17 ignored). Hue Premium Amazon 2× = Amazon-shipped Neu €79.31 MS-CommerceX (buy-box €76.99 Light Gallery Netherlands not Amazon-fulfilled; FloVersum24 Amazon-fulfilled €80.18 / NoBricks €81.03 higher; Gebraucht/Retourenkauf omitted). Hue Premium eBay 188091330966 omitted (nicht mehr vorrätig / OOS). Hue Premium Amazon+eBay 3× omitted. Shelly Amazon omitted; eBay 2× = 2×Einzeln (no 2er Packungsgröße).",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -138,8 +138,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8TQFGP?tag=freiwerk0b-21",
           "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8TQFGP.01.LZZZZZZZ.jpg",
           "sourcing": "1×1er",
-          "priceEurApprox": 43.96,
-          "unitPriceEur": 43.96
+          "priceEurApprox": 46.13,
+          "unitPriceEur": 46.13
         },
         {
           "asin": "B0FJ8WXXLN",
