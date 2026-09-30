@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T08:58:34+02:00",
+  "updatedAt": "2026-09-30T09:05:47+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -18,7 +18,7 @@
     "en": "Compatible",
     "es": "Compatible"
   },
-  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). Hue Premium Amazon 1× = Amazon retail buybox €46.13 (Retourenkauf €39.17 ignored). Hue Premium Amazon 2× = Amazon-shipped Neu €79.31 MS-CommerceX (buy-box €76.99 Light Gallery Netherlands not Amazon-fulfilled; FloVersum24 Amazon-fulfilled €80.18 / NoBricks €81.03 higher; Gebraucht/Retourenkauf omitted). Hue Premium eBay 188091330966 omitted (nicht mehr vorrätig / OOS). Hue Premium Amazon+eBay 3× omitted. Shelly Amazon omitted; eBay 2× = 2×Einzeln (no 2er Packungsgröße).",
+  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). Hue Premium Amazon 1× = Amazon retail buybox €39.97 (Retourenkauf/other used from €39.17 ignored). Hue Premium Amazon 2× = kept prior Amazon-shipped Neu €79.31 (live buy-box €76.99 Light Gallery Netherlands not Amazon-fulfilled; Amazon-fulfilled alt unverifiable this run; Gebraucht/Retourenkauf omitted). Hue Premium eBay 188091330966 omitted (nicht mehr vorrätig / OOS). Hue Premium Amazon+eBay 3× omitted. Shelly Amazon omitted; eBay 2× = 2×Einzeln (no 2er Packungsgröße).",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -26,7 +26,7 @@
       "model": "Colors A60 E27",
       "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
       "ratingApprox": 4.5,
-      "reviewCountApprox": 986,
+      "reviewCountApprox": 990,
       "variants": [
         {
           "asin": "B0BFJLTTL7",
@@ -120,8 +120,8 @@
       "brand": "Philips Hue",
       "model": "White & Color Ambiance E27",
       "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8TQFGP.01.LZZZZZZZ.jpg",
-      "ratingApprox": 4.7,
-      "reviewCountApprox": 490,
+      "ratingApprox": 4.6,
+      "reviewCountApprox": 171,
       "bridgeRequired": true,
       "compatibilityNote": "Für SmartSunrise und volle Hue-Funktionen brauchst du eine Hue Bridge (separat oder im Starter-Set).",
       "warning": {
@@ -138,8 +138,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8TQFGP?tag=freiwerk0b-21",
           "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8TQFGP.01.LZZZZZZZ.jpg",
           "sourcing": "1×1er",
-          "priceEurApprox": 46.13,
-          "unitPriceEur": 46.13
+          "priceEurApprox": 39.97,
+          "unitPriceEur": 39.97
         },
         {
           "asin": "B0FJ8WXXLN",
@@ -170,8 +170,8 @@
       "brand": "Philips Hue",
       "model": "Essential White & Color Ambiance E27",
       "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8YC69S.01.LZZZZZZZ.jpg",
-      "ratingApprox": 4.5,
-      "reviewCountApprox": 50,
+      "ratingApprox": 4.7,
+      "reviewCountApprox": 1098,
       "bridgeRequired": true,
       "compatibilityNote": "Günstigere Hue-Variante (806 lm). Bridge nötig. Kein sauberes eBay-Shop-Dauerangebot — eBay-Spalte weggelassen.",
       "warning": {
@@ -188,8 +188,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8YC69S?tag=freiwerk0b-21",
           "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8YC69S.01.LZZZZZZZ.jpg",
           "sourcing": "1×1er",
-          "priceEurApprox": 24.99,
-          "unitPriceEur": 24.99
+          "priceEurApprox": 22.99,
+          "unitPriceEur": 22.99
         },
         {
           "asin": "B0FJ8YC69S",
@@ -199,8 +199,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8YC69S?tag=freiwerk0b-21",
           "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8YC69S.01.LZZZZZZZ.jpg",
           "sourcing": "2×1er",
-          "priceEurApprox": 49.98,
-          "unitPriceEur": 24.99
+          "priceEurApprox": 45.98,
+          "unitPriceEur": 22.99
         },
         {
           "asin": "B0FJ8YC69S",
@@ -210,8 +210,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8YC69S?tag=freiwerk0b-21",
           "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8YC69S.01.LZZZZZZZ.jpg",
           "sourcing": "3×1er",
-          "priceEurApprox": 74.97,
-          "unitPriceEur": 24.99
+          "priceEurApprox": 68.97,
+          "unitPriceEur": 22.99
         }
       ],
       "buttonLayout": {
