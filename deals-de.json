@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T08:58:00+02:00",
+  "updatedAt": "2026-10-07T08:58:00+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -18,7 +18,7 @@
     "en": "Compatible",
     "es": "Compatible"
   },
-  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). 2026-10-06 refresh: Amazon prices now scraped with delivery ZIP 20095 Hamburg (gross incl. 19% MwSt.) — earlier runs had a US delivery location and showed net prices. WiZ Amazon Neu, Verkauf Amazon €6.62. Hue Premium 1× Buybox Light Gallery Netherlands Neu €45.49; 2× Buybox Neu €78.26. Hue Essential Amazon Neu €24.99. eBay WiZ 326335071808 Technikgross.de (100% positiv, 9957) Multi-Rabatt 4.99/4.49/4.24 +€5.99 ship unchanged. Hue Premium eBay 188091330966 still 'Nicht mehr vorrätig' — omitted. Hue Premium 3× omitted. Shelly Amazon omitted; eBay 147548141466 shelly-parts (99,9%) Einzeln €8.99 / 3er €26.99 +€3.90 ship unchanged (2×=2×Einzeln).",
+  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). Amazon prices scraped with delivery ZIP 20095 Hamburg (gross incl. 19% MwSt.). 2026-10-07 refresh: WiZ Amazon Neu, Verkauf Amazon €9.90 (was 6.62). Hue Premium buybox now ReShop2407 (66% positiv, 3.5★) — ignored as not solid; 1× Light Gallery Netherlands Neu €45.49 (82% positiv) unchanged; 2× next clean Neu SmartBuy-Online (97% positiv, Versand durch Amazon) €81.03 (was 78.26). Hue Essential Amazon Neu €24.99 unchanged. eBay WiZ 326335071808 Technikgross.de (100% positiv, 9957) Multi-Rabatt 4.99/4.49/4.24 +€5.99 ship unchanged. Hue Premium eBay 188091330966 still 'Nicht mehr vorrätig' — omitted. Hue Premium 3× omitted. Shelly Amazon omitted (candidate pending approval); eBay 147548141466 shelly-parts (99,9%) Einzeln €8.99 / 3er €26.99 +€3.90 ship unchanged (2×=2×Einzeln).",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -36,8 +36,8 @@
           "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
           "sourcing": "1×1er",
-          "priceEurApprox": 6.62,
-          "unitPriceEur": 6.62
+          "priceEurApprox": 9.9,
+          "unitPriceEur": 9.9
         },
         {
           "ebayItemId": "326335071808",
@@ -60,8 +60,8 @@
           "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
           "sourcing": "2×1er",
-          "priceEurApprox": 13.24,
-          "unitPriceEur": 6.62
+          "priceEurApprox": 19.8,
+          "unitPriceEur": 9.9
         },
         {
           "ebayItemId": "326335071808",
@@ -84,8 +84,8 @@
           "url": "https://www.amazon.de/dp/B0BFJLTTL7?tag=freiwerk0b-21",
           "imageUrl": "https://m.media-amazon.com/images/I/71QzoBdUK9L._AC_SL1500_.jpg",
           "sourcing": "3×1er",
-          "priceEurApprox": 19.86,
-          "unitPriceEur": 6.62
+          "priceEurApprox": 29.7,
+          "unitPriceEur": 9.9
         },
         {
           "ebayItemId": "326335071808",
@@ -149,8 +149,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8WXXLN?tag=freiwerk0b-21",
           "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8WXXLN.01.LZZZZZZZ.jpg",
           "sourcing": "1×2er",
-          "priceEurApprox": 78.26,
-          "unitPriceEur": 39.13
+          "priceEurApprox": 81.03,
+          "unitPriceEur": 40.52
         }
       ],
       "buttonLayout": {
