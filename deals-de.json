@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T08:58:00+02:00",
+  "updatedAt": "2026-10-09T08:58:00+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -18,7 +18,7 @@
     "en": "Compatible",
     "es": "Compatible"
   },
-  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). Amazon prices scraped with delivery ZIP 20095 Hamburg (gross incl. 19% MwSt.). 2026-10-07 refresh: WiZ Amazon Neu, Verkauf Amazon €9.90 (was 6.62). Hue Premium buybox now ReShop2407 (66% positiv, 3.5★) — ignored as not solid; 1× Light Gallery Netherlands Neu €45.49 (82% positiv) unchanged; 2× next clean Neu SmartBuy-Online (97% positiv, Versand durch Amazon) €81.03 (was 78.26). Hue Essential Amazon Neu €24.99 unchanged. eBay WiZ 326335071808 Technikgross.de (100% positiv, 9957) Multi-Rabatt 4.99/4.49/4.24 +€5.99 ship unchanged. Hue Premium eBay 188091330966 still 'Nicht mehr vorrätig' — omitted. Hue Premium 3× omitted. Shelly Amazon omitted (candidate pending approval); eBay 147548141466 shelly-parts (99,9%) Einzeln €8.99 / 3er €26.99 +€3.90 ship unchanged (2×=2×Einzeln).",
+  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). Amazon prices scraped as gross incl. 19% MwSt. (inkl. MwSt. shown). 2026-10-09 refresh: WiZ Amazon Neu, Verkauf Amazon €9.90 unchanged. Hue Premium 1× Light Gallery Netherlands Neu €45.49 (82% positiv) unchanged; 2× buybox ReShop2407 (66% positiv) ignored as not solid — next clean Neu FS-Handel24 (100% positiv, Versand durch Amazon) €79.51 (was 81.03 SmartBuy-Online). Hue Essential Amazon Neu, Verkauf Amazon €24.99 unchanged. eBay WiZ 326335071808 Technikgross.de (100% positiv, 9958) Multi-Rabatt 4.99/4.49/4.24 +€5.99 ship unchanged. Hue Premium eBay 188091330966 still 'Nicht mehr vorrätig' — omitted. Hue Premium 3× omitted. Shelly Amazon omitted (candidate B0GTMTGTNN pending approval); eBay 147548141466 shelly-parts (99,9%) Einzeln €8.99 / 3er €26.99 +€3.90 ship unchanged (2×=2×Einzeln).",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -149,8 +149,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8WXXLN?tag=freiwerk0b-21",
           "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8WXXLN.01.LZZZZZZZ.jpg",
           "sourcing": "1×2er",
-          "priceEurApprox": 81.03,
-          "unitPriceEur": 40.52
+          "priceEurApprox": 79.51,
+          "unitPriceEur": 39.76
         }
       ],
       "buttonLayout": {
