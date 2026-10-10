@@ -1,11 +1,22 @@
 {
-  "updatedAt": "2026-09-07T16:27:59+02:00",
+  "updatedAt": "2026-10-10T12:46:19+02:00",
   "schemaVersion": 1,
   "latestVersion": "1.4.0",
   "latestVersionCode": 7,
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.freiwerk.smartsunrise",
   "donateUrl": null,
   "defaultRemindIntervalMinutes": 86400,
-  "items": [],
+  "items": [
+    {
+      "id": "share-feedback-170",
+      "type": "shareFeedback",
+      "message": {
+        "de": "Gefällt dir SmartSunrise? Lass auch Freunde gut aufwachen.",
+        "en": "Like SmartSunrise? Help friends wake up well too.",
+        "es": "¿Te gusta SmartSunrise? Que tus amigos también despierten bien."
+      },
+      "intervalMinutes": 86400
+    }
+  ],
   "banners": []
 }
