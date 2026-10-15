@@ -15,7 +15,8 @@
         "en": "Like SmartSunrise? Help friends wake up well too.",
         "es": "¿Te gusta SmartSunrise? Que tus amigos también despierten bien."
       },
-      "intervalMinutes": 86400
+      "intervalMinutes": 86400,
+      "firstDelayDays": 7
     }
   ],
   "banners": []
