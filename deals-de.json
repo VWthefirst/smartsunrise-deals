@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T08:58:00+02:00",
+  "updatedAt": "2026-10-17T08:55:00+02:00",
   "marketplace": "de",
   "partnerTag": "freiwerk0b-21",
   "ebayCampaignId": "5339084095",
@@ -18,7 +18,7 @@
     "en": "Compatible",
     "es": "Compatible"
   },
-  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). Amazon prices scraped as gross incl. 19% MwSt. with delivery ZIP 20095 Hamburg set via glow (inkl. MwSt. shown). 2026-10-16 refresh: WiZ Amazon Neu, Verkauf Amazon €9.68 (was 9.90). Hue Premium 1× Neu, Verkauf Amazon €49.37 unchanged (buybox Light Gallery Netherlands 81% €45.49 skipped as low-trust). Hue Premium 2× Neu, Verkauf Amazon €83.90 unchanged (buybox Light Gallery 81% €76.99 skipped). Hue Essential Amazon Neu, Verkauf Amazon €24.99 unchanged. eBay WiZ 326335071808 Technikgross.de (100%, 9961) Multi-Rabatt 4.99/4.49/4.24 +€5.99 unchanged. Hue Premium eBay 188091330966 still 'Nicht mehr vorrätig' — omitted. Hue Premium 3× omitted. Shelly Amazon omitted (candidate B0GTMTGTNN €9.90 Shelly Europe LTD 96% FBA pending approval); eBay 147548141466 shelly-parts (99,9%) Einzeln €8.99 / 3er €26.99 +€3.90 unchanged (2×=2×Einzeln; total 12.89 confirmed via Idealo). Pending candidates (not in feed): eBay Hue W&C 2er 176308850884 €69.90; eBay Hue W&C 1× 318914177776 €51.99; Amazon Hue Essential 4er B0FJ8X8D1R €69.99; Amazon Hue W&C 2er+Bridge B07XC1RTXQ €88.74 DigitSells 100% FBA.",
+  "rulesNote": "WiZ + Hue Color Ambiance Premium + Essential in recommended; Shelly Multicolor Gen3 in moreOffers. Omit pack/marketplace when no clean Dauerangebot (no disabled/dash schema). Amazon prices scraped as gross incl. 19% MwSt. with delivery ZIP 20095 Hamburg set via glow (inkl. MwSt. shown). 2026-10-17 refresh: WiZ Amazon Neu, Verkauf Amazon €9.68 unchanged. Hue Premium 1× Neu, Verkauf Amazon €49.37 unchanged (buybox Light Gallery Netherlands 81% €45.49 skipped as low-trust). Hue Premium 2× B0FJ8WXXLN: no Neu/Verkauf-Amazon offer today (was €83.90); now €84.99 from Kaskadia (100%, Versand durch Amazon); buybox Light Gallery 81% €82.95 and DigitaleFreiheit 82% €77.50 skipped as low-trust. Hue Essential Amazon Neu, Verkauf Amazon €24.99 unchanged. eBay WiZ 326335071808 Technikgross.de (100%, 9962) Multi-Rabatt 4.99/4.49/4.24 +€5.99 unchanged. Hue Premium eBay 188091330966 still 'Nicht mehr vorrätig' — omitted. Hue Premium 3× omitted. Shelly Amazon omitted (candidate B0GTMTGTNN €9.90 Shelly Europe LTD 96% FBA pending approval); eBay 147548141466 shelly-parts (99,9%) Einzeln €8.99 / 3er €26.99 +€3.90 unchanged (2×=2×Einzeln). Pending candidates (not in feed): eBay Hue W&C 2er 176308850884 €69.90/Stk (preisalarm.shop 99,9%); eBay Hue W&C 1× 318914177776 €51.99 (DASADO-TOOLS 100%); Amazon Hue Essential 4er B0FJ8X8D1R €69.99 Verkauf Amazon; Amazon Hue W&C 2er+Bridge B07XC1RTXQ €89.28 DigitSells 100% FBA.",
   "recommended": [
     {
       "id": "wiz-colors-e27",
@@ -149,8 +149,8 @@
           "url": "https://www.amazon.de/dp/B0FJ8WXXLN?tag=freiwerk0b-21",
           "imageUrl": "https://images-eu.ssl-images-amazon.com/images/P/B0FJ8WXXLN.01.LZZZZZZZ.jpg",
           "sourcing": "1×2er",
-          "priceEurApprox": 83.9,
-          "unitPriceEur": 41.95
+          "priceEurApprox": 84.99,
+          "unitPriceEur": 42.49
         }
       ],
       "buttonLayout": {
